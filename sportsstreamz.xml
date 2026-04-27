@@ -100,21 +100,21 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]Universo.AQ[/B][/COLOR]</title>
 <link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]NowSp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -128,17 +128,10 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]FUBO SPORTS - AQ.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]UNIVERSO.AQ[/B][/COLOR]</title>
-<link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
@@ -154,13 +147,13 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/49493</page>
+<page>https://gooz.aapmains.net/new-stream-embed/49701</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -173,28 +166,42 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][5] Server 2[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][4] Server 1[/B][/COLOR]</title>
 <link>https://hls.iill.top/api/Hub-Premier-1/index.m3u8</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-    
+
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][6] Server 3[/B][/COLOR]</title>
-<link>https://xstm.250909.cc/live/SPORTSFLUX-PRD-21391-1/74fe43073c5f/195.m3u8</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]ESPN.[/B][/COLOR]</title>
-<link>https://live.uu6611.com/live/hd-en-1-4343362.m3u8?txSecret=462f5d7880216b0c4c082f9e42eb9eff&txTime=69DD820C|Referer=https://player.up909.com/</link>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][5] Server 2[/B][/COLOR]</title>
+<link>https://live.vivo200.com/live/hd-en-1-4343376.m3u8?txSecret=8aede2e6c489e767a9f85c7cf18cfd2a&txTime=69ED2E3E|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][7] Server 4[/B][/COLOR]</title>
+<link>https://datakameha.route64.de/fs/p/skysportsmainevent/index.m3u8</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][8] Server 5[/B][/COLOR]</title>
+<link>https://datakameha.route64.de/fs/p/USANETEAST/index.m3u8</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B][9] LOW[/B][/COLOR]</title>
+<link>https://pul-tenm.nbs3g.com/live/hd-en-1-4343392.m3u8?txSecret=0231f6d139fc3d2cb4c3251c8fe37683&txTime=69F0FFF2</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+<!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]beIN.Adaptive[/B][/COLOR]</title>
 <link>https://45.hls-syria.live/live/bein1|Referer=https://www.gomatch-live.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
@@ -212,7 +219,7 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs. Brentford[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -1617,7 +1624,7 @@
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
-
+-->
 <item>
 <title>   </title>
 <link>.</link>
@@ -1633,28 +1640,28 @@
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-laligatv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
 <link>matchid:rayo-vallecano-vs-real-sociedad-2279710</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.[/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_laliga1</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]LaLigaTV.Adaptive1[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|key_id=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a::#LISTNAME:[COLOR orange][B]Premier Sports.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19::#LISTNAME:[COLOR orange][B]LaLigaTV.Adaptive2[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|key_id=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a::#LISTNAME:[COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8::#LISTNAME:[COLOR orange][B][3] SP - 3[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|key_id=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f::</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1664,21 +1671,21 @@
 #LISTNAME:[COLOR orange][B]Premier Sports[/B][/COLOR]::LISTSOURCE:https://a166aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd|key_id=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f::#LISTNAME:[COLOR orange][B][2] SP - 2[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|key_id=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003::
 <!--
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd|key_id=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddylaliga1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -1688,37 +1695,23 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]ESPNDeportes.720p[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]ESPNDeportes.720p[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/sabrouchespndeportes/index.m3u8</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://storage.googleapis.com/beturytyrenhuger2/mux_video_ts/index-1.m3u8</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link> https://1a-1791.com/live/tv3qa28c/slot-35/mx95-2r0u_720p/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.[/B][/COLOR]</title>
-<link>https://live.vivo200.com/live/hd-en-1-4358429.m3u8?txSecret=e86f762078aabc277c437a97be85e926&txTime=69E93D57|Referer=https://player.787200.com/</link>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Server 2[/B][/COLOR]</title>
+<link>https://live.vivo200.com/live/hd-en-1-4358452.m3u8?txSecret=e82c2cf452aca5d07937fc44f8e50b15&txTime=69EFF6E6|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]AR_beIN.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]AR_beIN.Adaptive[/B][/COLOR]</title>
 <link>https://70.hls-syria.live/live/bein3.m3u8|Referer=https://11.sportsurges.cc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -1730,28 +1723,28 @@
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddylaliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-laliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_laliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -1763,7 +1756,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://ballstrong.click/totalsporteks/tracker4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -1775,7 +1768,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Villarreal vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2867,88 +2860,75 @@
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-se1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
 <link>ppvfilter:cag-ata</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
-<link>LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811::#LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e::#LISTNAME[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b::#</link>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::#LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e::</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
-
+#LISTNAME[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b::#
 LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875::#
 #LISTNAME:[COLOR orange][B]Sport 1 CZ AQ[/B][/COLOR]::LISTSOURCE:https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
+LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811::#
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>gbplayer
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] </title>
-<link></link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Fancode.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Fancode.Adaptive[/B][/COLOR]</title>
 <link>https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e</link>gbplayer
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] </link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.AQ[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.AQ[/B][/COLOR]</title>
 <link>https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,|key_id=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.AQ[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.AQ[/B][/COLOR]</title>
 <link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|key_id=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/44748&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -2958,13 +2938,13 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]CBSSports.HQ+[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]CBSSports.[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/44748&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/49668</page>
+<page>https://gooz.aapmains.net/new-stream-embed/49698</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -2972,49 +2952,42 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B][*] Server 2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B][3] Server 1[/B][/COLOR]</title>
 <link>https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B][*] Server 3[/B][/COLOR]</title>
-<link>https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online</link>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B][4] Server 2[/B][/COLOR]</title>
+<link>https://instreams.pro/EU/HDTV12/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B][*] Server 4[/B][/COLOR]</title>
-<link>https://live.vivo200.com/live/hd-en-1-4339719.m3u8?txSecret=6e4502bdfae381dadd3ecc4a15e391c1&txTime=69EE9EF2|Referer=https://player.787200.com/</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B][*] Server 5[/B][/COLOR]</title>
-<link>https://instreams.pro/EU/HDTV11/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B][5] Server 3[/B][/COLOR]</title>
+<link>https://live.vivo200.com/live/hd-en-1-4339729.m3u8?txSecret=be7b24d838df1e0ea37e02d1dd7e2eab&txTime=69EFF691|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
 <link>https://hls.686868.me/live/HCONG/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
 <link>https://hls.686868.me/live/HCONG/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://1syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8|Referer=https://6live.kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3026,7 +2999,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://a2.kora-plus.dad/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Origin=https://a2.kora-plus.dad</link><regex>
 <name>get_sxstream</name>
 <expres>token:\s*["']([A-Za-z0-9+/=]+)["']</expres>
@@ -3038,14 +3011,14 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://spoort.en-yalla.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -3057,7 +3030,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://pl.koooralive.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3069,7 +3042,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
@@ -3081,7 +3054,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -3093,7 +3066,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3317,21 +3290,21 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>https://aws.sportslive123.com/user/custom/dialog/userdata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>https://f1.webinfotex.site/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_se1sd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cagliari vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>https://web.wbnews24.shop/user/custom/dialog/userdata.js?main_new-se1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
