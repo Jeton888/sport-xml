@@ -5,17 +5,25 @@
 <channels>
 
 <channel>
-    <name>[COLOR yellow][B]UPDATE TO v.3.2.3[/B][/COLOR]</name>
-    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.3.zip</externallink>
+    <name>[COLOR yellow][B]UPDATE TO v.3.2.4[/B][/COLOR]</name>
+    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </channel>
 
 <channel>
     <name>[COLOR yellow][B]CHECK REPO UPDATE[/B][/COLOR]</name>
-    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.3.zip</externallink>
+    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
     <thumbnail></thumbnail>
     <fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR pink][B]Live TV[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
+<externallink>plugin://plugin.video.Rising.Tides/?url=https%3A%2F%2Fdamitv.live%2Fchannels.json&amp;mode=64</externallink>
+<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
+<info></info>
 </channel>
 
 <channel>
@@ -173,13 +181,15 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
+<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
 
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
+<externallink>plugin://plugin.video.Rising.Tides/?url=https%3A%2F%2Fdamitv.live%2Fchannels.json&amp;mode=64</externallink>
 <fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
+
 -->
 </channels>
