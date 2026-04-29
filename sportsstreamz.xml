@@ -237,7 +237,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -421,7 +421,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -522,7 +522,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -636,7 +636,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -723,7 +723,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker4/</page>
+<page>https://tipstrong.click/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -810,7 +810,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker5/</page>
+<page>https://tipstrong.click/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -872,7 +872,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker4/</page>
+<page>https://tipstrong.click/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -954,7 +954,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker7/</page>
+<page>https://tipstrong.click/totalsporteks/tracker7/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1149,7 +1149,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1211,7 +1211,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1757,10 +1757,10 @@
 
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Espanyol vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://ballstrong.click/totalsporteks/tracker4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://tipstrong.click/totalsporteks/tracker4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
@@ -1861,7 +1861,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
@@ -1947,7 +1947,7 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker5/</page>
+<page>https://tipstrong.click/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
@@ -2335,8 +2335,8 @@
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/home/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
-<referer><page>https://ballstrong.click/totalsporteks/tracker4/</referer>games
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
+<referer><page>https://tipstrong.click/totalsporteks/tracker4/</referer>games
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2438,11 +2438,11 @@
 <!--
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Cologne vs Bayer Leverkusen[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://ballstrong.click/totalsporteks/tracker40-o/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://tipstrong.click/totalsporteks/tracker40-o/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker8/</page>
-<referer><page>https://ballstrong.click/totalsporteks/tracker/</referer>games
+<page>https://tipstrong.click/totalsporteks/tracker8/</page>
+<referer><page>https://tipstrong.click/totalsporteks/tracker/</referer>games
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3058,7 +3058,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker4/</page>
+<page>https://tipstrong.click/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3141,7 +3141,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3210,7 +3210,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3258,7 +3258,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3390,7 +3390,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
@@ -3564,7 +3564,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker9/</page>
+<page>https://tipstrong.click/totalsporteks/tracker9/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
@@ -3716,7 +3716,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -4074,7 +4074,7 @@ xml
 <link>juzvernty|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker6/</page>
+<page>https://tipstrong.click/totalsporteks/tracker6/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -4546,7 +4546,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -4578,100 +4578,107 @@ xml
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Simulcast[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive1[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/l1v1uhsjan/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd|key_id=868f5c91cb11396c64bdaca4118f6b60:7a5317e82291250f16830fd6bb5f329a</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl_atm|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive2[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive3[/B][/COLOR]</title>
-<link>https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|key_id=e97f48bffb38c1b2453d5ff7a919759f:8e1381edeed7829031963ac576700747</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]BeIN English - AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl_atm|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive1[/B][/COLOR]</title>
+<link>https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/aaemapqzro/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd|key_id=97ab214b4bc4a6a8cc1721bac257ca07:0aaa951bb1ed6984f95f932ff3371215</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive2[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive3[/B][/COLOR]</title>
+<link>https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|key_id=e97f48bffb38c1b2453d5ff7a919759f:8e1381edeed7829031963ac576700747</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]BeIN English - AQ[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/yc1yepcwe9/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd|key_id=89d2d53fec05b3f4b1e1c223ede08c98:a05a49391c013ea3bed9c0081b72a0fe</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Multi View FHD.[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Multi View FHD.[/B][/COLOR]</title>
 <link>https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8|Referer=https://cxfoot.pages.dev</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]TNT BR AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT BR AQ[/B][/COLOR]</title>
 <link>https://abgqhfdaaaaaaaameyaqykf5zy3tq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd|key_id=73307447c35177a8acc3e8a42aa2516d:63a3ec36d4bdb812e41e74f132c5ff2f</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]TUDN ES[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]TUDN ES[/B][/COLOR]</title>
 <link>https://daffodil.simplyataide.boutique/tudn.m3u8|Referer=https://roxiestreams.info/</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]beIN Arabic[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Arabic[/B][/COLOR]</title>
 <link>https://70.hls-syria.live/live/bein1</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -4681,13 +4688,13 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/49003</page>
+<page>https://gooz.aapmains.net/new-stream-embed/49789</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -4695,7 +4702,19 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.720p3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*playlist.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/49788</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -4705,16 +4724,16 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]TNT SPORTS FHD[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT SPORTS FHD[/B][/COLOR]</title>
 <link>https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/ucl-1.m3u8?md5=7d946b04ba47efc46517e0c62676b178&exp=1776200152|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://41.hls-syria.live/live/bein1|Referer=https://kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
@@ -4732,7 +4751,7 @@ xml
 </item>
 -->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -4744,11 +4763,11 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://playreport.link/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -4756,7 +4775,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Bayern Munich[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -4901,7 +4920,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5006,7 +5025,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5096,7 +5115,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5397,7 +5416,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker1/</page>
+<page>https://tipstrong.click/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -5469,7 +5488,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker3/</page>
+<page>https://tipstrong.click/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -5542,7 +5561,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker2/</page>
+<page>https://tipstrong.click/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -5614,7 +5633,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker4/</page>
+<page>https://tipstrong.click/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -5686,7 +5705,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://ballstrong.click/totalsporteks/tracker5/</page>
+<page>https://tipstrong.click/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
