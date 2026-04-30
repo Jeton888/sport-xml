@@ -4585,7 +4585,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -4688,7 +4688,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -4749,7 +4749,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -4945,71 +4945,70 @@ xml
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-euro1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/arckfneasx/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd|key_ids=2dac79c5227875978e6427483a10c586key_val=e4d04fbcc52f07c284fa72fb040a92bd</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive2[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive2[/B][/COLOR]</title>
 <link>https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]COSMOTE.[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]COSMOTE.[/B][/COLOR]</title>
 <link>https://live.uu6611.com/live/hd-en-1-4517882.m3u8?txSecret=22fa8ac90fee4f446d0a56dec04064c0&txTime=69D838D5|Referer=https://player.up909.com/</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic3.m3u8</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/uefa-europa-league-knockout-stage/bologna-aston-villa-live-stream/1240928</page>
+<page>http://1stream.plus/uefa-europa-league-knockout-stage/aston-villa-nottingham-forest-live-stream/1283638</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]SPORTS.720p[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]SPORTS.720p[/B][/COLOR]</title>
 <link>https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/cbs-sports-network.m3u8?md5=d282e8c348636ebfe48d7b157366c3bd&exp=1776371234|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -5019,9 +5018,9 @@ xml
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
@@ -5031,13 +5030,13 @@ xml
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Bologna[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch1.php</page>
+<page>https://streambtw.com/iframe/ch2.php</page>
 <referer>https://streambtw.com/iframe/ch1.php</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5045,53 +5044,53 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-euro2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive2[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7rhulohbhs/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd|key_id=f3a2716ad01f32df047b58d1884e5236:d70f0bdb5df9a32f7f9342ed5094d027</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive[/B][/COLOR]</title>
 <link>|key_id=:</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]COSMOTE.[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]COSMOTE.[/B][/COLOR]</title>
 <link>https://bbb.exoadash.com/TVD4076/index.mpd</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic1.m3u8</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/uefa-europa-league-knockout-stage/fc-porto-nottingham-forest-live-stream/1240929</page>
+<page>http://1stream.plus/uefa-europa-league-knockout-stage/sporting-braga-sc-freiburg-live-stream/1283639</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5099,7 +5098,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -5109,9 +5108,9 @@ xml
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
@@ -5121,84 +5120,14 @@ xml
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Porto[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
+<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link>
+<regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch3.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-euro3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive[/B][/COLOR]</title>
-<link>https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC|key_id=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]Sport 1.[/B][/COLOR]</title>
-<link>https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]COSMOTE.[/B][/COLOR]</title>
-<link>https://bbb.exoadash.com/TVD4074/index.mpd</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic3.m3u8</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/uefa-europa-league-knockout-stage/celta-vigo-sc-freiburg-live-stream/1240631</page>
-<referer>https://1stream.plus/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://atletifan.com/atm/?fans=5</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Real Betis vs Sporting Braga[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
+<page>https://streambtw.com/iframe/ch1.php</page>
 <referer>https://streambtw.com/iframe/ch1.php</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5213,68 +5142,68 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive1[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|key_id=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive2[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xzrumhvk25/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|key_id=cdd044e8b6472fa86296bc8eef1fb004:a9b2591e95016a6581ed54492c0047fb</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|key_id=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Server 1 - All Devices.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive2[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xzrumhvk25/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|key_id=cdd044e8b6472fa86296bc8eef1fb004:a9b2591e95016a6581ed54492c0047fb</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|key_id=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Server 1 - All Devices.[/B][/COLOR]</title>
 <link>https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic4.m3u8</link>gbplayer
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/uefa-europa-conference-league-knockout-stage/fiorentina-crystal-palace-live-stream/1240933</page>
+<page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/shakhtar-donetsk-crystal-palace-live-stream/1283641</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
 <link>https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/tnt-sports-3.m3u8?md5=51062993cc9560dcd0400ea578659f16&exp=1776371294|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.ARABIC[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.ARABIC[/B][/COLOR]</title>
 <link>https://syria-live12.s3.amazonaws.com/bein1/master.m3u8|Referer=https://kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
@@ -5284,9 +5213,9 @@ xml
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Fiorentina vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -5298,25 +5227,25 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Mainz 05[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Strasbourg[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Mainz 05[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Strasbourg[/B][/COLOR] [COLOR orange][B]SPORTS.AQ.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qpbqgbvppg/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd|key_id=cd56264bc2244d9d4685047661fac903:8d4d5536718d5e4eabe9df7b1ae69af</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Mainz 05[/B][/COLOR] [COLOR orange][B]Sport.1.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Strasbourg[/B][/COLOR] [COLOR orange][B]Sport.1.[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/uefa-europa-conference-league-knockout-stage/1-fsv-mainz-05-rc-strasbourg-live-stream/1240934</page>
+<page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/rayo-vallecano-rc-strasbourg-live-stream/1283640</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
@@ -5324,24 +5253,24 @@ xml
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Mainz 05[/B][/COLOR] [COLOR orange][B]Server 1.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Strasbourg[/B][/COLOR] [COLOR orange][B]Server 1.[/B][/COLOR]</title>
 <link>https://live.uu6611.com/live/hd-en-1-4517877.m3u8?txSecret=3159a699fee2a6a0beca3dc805a214b3&txTime=69D838D5|Referer=https://player.up909.com/</link>gbplayer
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Mainz 05[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Strasbourg[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch10.php</page>
+<page>https://streambtw.com/iframe/ch3.php</page>
 <referer>https://streambtw.com/iframe/ch1.php</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]AEK Athens vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
