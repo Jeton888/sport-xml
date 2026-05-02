@@ -3598,7 +3598,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
 <fanart>https://www.inter.it/media/downloads/2021/2021_11_17_10_19_26Tabellone_CoppaItalia_ottavi.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -3612,69 +3612,76 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>lyon-vs-auxerre-2278383
-<!--
+-->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
 <link>https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|key_id=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]nvidia_nova_sport2.Adaptive[/B][/COLOR]</title>
+<link>https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
 <link>matchid:lorient-vs-strasbourg-2278382</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.HD1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.HD1[/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Server 1.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Server 1.[/B][/COLOR]</title>
 <link>https://edgestreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Server 2.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Server 2.[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4347957.m3u8?txSecret=a9da3017458d397ed3d17bd360fa64e2&txTime=69EE9F11|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Server 3.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Server 3.[/B][/COLOR]</title>
 <link>https://instreams.pro/EU/HDTV22/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/ligue-1/metz-olympique-de-marseille-live-stream/1095424</page>
+<page>http://1stream.plus/ligue-1/lorient-paris-saint-germain-live-stream/1096939</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -3682,14 +3689,28 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
-<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<link>https://tflixcdn.site/beinusa.m3u8</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<link>https://tflixcdn.site/ligue1.m3u8</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.4[/B][/COLOR]</title>
+<link>https://tflixcdn.site/beinusa.m3u8</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
 <link>https://68.hls-syria.live/live/bein3|Referer=https://4live.kooraxx.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3707,28 +3728,28 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=39|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
 <link>https://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.[/B][/COLOR]</title>
 <link>https://pa.hometonet2.sbs/status/5/fronts.woff2?9ef81b|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -3740,7 +3761,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
@@ -3752,7 +3773,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://ot
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3979,7 +4000,7 @@ xml
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=39|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
@@ -4110,7 +4131,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nice Amazon Prime Video__dl[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Lorient Amazon Prime Video__dl[/B][/COLOR]</title>
 <link>https://webudit.hlsjs.ru/lb/premium108/playlist.m3u8|Referer=https://weblivehdplay.ru/premiumtv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
