@@ -1658,7 +1658,7 @@
 -->
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Getafe vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
-<link>LISTNAME:[COLOR orange][B]LaLigaTV.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|key_id=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a::#LISTNAME:[COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8::#LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::#LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e::#LISTNAME:[COLOR orange][B]Premier Sports.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19::</link>
+<link>LISTNAME:[COLOR orange][B]LaLigaTV.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|key_id=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a::#LISTNAME:[COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8::#LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e::#LISTNAME:[COLOR orange][B]Premier Sports.Adaptive[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19::</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -2206,46 +2206,46 @@
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ENGLISH.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ENGLISH.Adaptive1[/B][/COLOR]</title>
 <link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|key_id=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]TVD232.Adaptive[/B][/COLOR]</title>
-<link>https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B].Adaptive[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]1[/B][/COLOR]::LISTSOURCE:https://d1yi40sjj0ca0v.cloudfront.net/TVD212/index.mpd::#LISTNAME:[COLOR orange][B]2[/B][/COLOR]::LISTSOURCE:https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd::#LISTNAME:[COLOR orange][B]3[/B][/COLOR]::LISTSOURCE:https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8::</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
+</item>LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]</title>
 <link>https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sport.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sport.[/B][/COLOR]</title>
 <link>https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_DE_DAZN_2_HD/index.m3u8|Referer=https://kilat-live.com/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/1-fsv-mainz-05-fc-st-pauli-live-stream/1096725</page>
+<page>http://1stream.plus/bundesliga/borussia-dortmund-borussia-mgladbach-live-stream/1096722</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2253,14 +2253,14 @@
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -2270,30 +2270,30 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Server 1.[/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Server 1.[/B][/COLOR]</title>
+<link>https://live-pull.aisports.mobi/moviebox/bsy_020/playlist.m3u8?sign=16961d4f88299bf700802ee85fa19289&t=1777822505|Referer=https://sportslivenow.top/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Server 2.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Server 2.[/B][/COLOR]</title>
 <link>https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+<!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.720p[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.720p[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4347614.m3u8?txSecret=bc403495eb2040a9cb9be6a903a9e3f9&txTime=69F78CFA|Referer=https://player.787200.com/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sport.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sport.Adaptive[/B][/COLOR]</title>
 <link>https://45.hls-syria.live/live/shahid1|Referer=https://4live.kooraxx.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -2305,28 +2305,28 @@
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=11|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]ESPN+.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1080p2[/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.1[/B][/COLOR]</title>
 <link>juzvernty|Referer=https://actionx.blog/blogsscripts1/?id=2</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*https.*?)[",']</expres>
@@ -2338,7 +2338,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/home/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -2350,7 +2350,7 @@
 </item>
 -->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs Mainz[/B] [/COLOR][COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3602,77 +3602,63 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 </item>lyon-vs-auxerre-2278383
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
-<link>https://d1yi40sjj0ca0v.cloudfront.net/TVD2085/index.mpd</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
+<link>https://d1yi40sjj0ca0v.cloudfront.net/TVD2087/index.mpd</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]HD.Adaptive[/B][/COLOR]</title>
 <link>https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|key_id=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]nvidia_nova_sport2.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]nvidia_nova_sport2.Adaptive[/B][/COLOR]</title>
 <link>https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 -->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://yesllahq.28585519.net:8443/hls/twqw57dijwx1t.m3u8?s=lv3nCHuHVbXGzT5Z6-89wg&e=1777833259|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://helpless.click</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://yesllahq.28585519.net:8443/hls/itptkyh7zc03l.m3u8?s=TgNF4lIlkgQ9EgjSgRNnbw&e=1777841128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://helpless.click</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
-<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
-</item>
--->
-<item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Server 1.[/B][/COLOR]</title>
-<link>https://mainstreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online</link>
-<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
-<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Server 2.[/B][/COLOR]</title>
-<link>https://live.vivo200.com/live/hd-en-1-4347962.m3u8?txSecret=128235c1119c22aaa4dddc970ee98a23&txTime=69F78A0F|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Server 3.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Server 3.[/B][/COLOR]</title>
 <link>https://instreams.pro/EU/HDTV22/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -3684,28 +3670,28 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
 <link>https://tflixcdn.site/beinusa.m3u8&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
 <link>https://tflixcdn.site/ligue1.m3u8</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.4[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.4[/B][/COLOR]</title>
 <link>https://tflixcdn.site/beinusa.m3u8</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.Adaptive[/B][/COLOR]</title>
 <link>https://68.hls-syria.live/live/bein3|Referer=https://4live.kooraxx.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3723,28 +3709,28 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=39|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
 <link>https://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.[/B][/COLOR]</title>
 <link>https://pa.hometonet2.sbs/status/5/fronts.woff2?9ef81b|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -3756,7 +3742,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
@@ -3768,7 +3754,7 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3792,43 +3778,57 @@ LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rennes[/B][/COLOR] [COLOR orange][B]HD SERVER.[/B][/COLOR]</title>
-<link>https://live.uu6611.com/live/hd-en-1-4347937.m3u8?txSecret=779569719d92a81d797a7016c0e454ec&txTime=69DBFDCA|Referer=https://player.up909.com/</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Paris FC vs Brest[/B][/COLOR] [COLOR orange][B]SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://yesllahq.28585519.net:8443/hls/ho1oa0x34o198.m3u8?s=6cz7k_i_RFTEoWtrz4wp-Q&e=1777841168</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rennes[/B][/COLOR] [COLOR orange][B]bein2.[/B][/COLOR]</title>
-<link>https://1syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Paris FC vs Brest[/B][/COLOR] [COLOR orange][B]SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rennes[/B][/COLOR] [COLOR orange][B]HD SERVER.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Paris FC vs Brest[/B][/COLOR] [COLOR orange][B]HD SERVER.[/B][/COLOR]</title>
 <link>https://live.uu6611.com/live/hd-en-1-4347928.m3u8?txSecret=0f660390d6e170e64a4a6b72f993e4fb&txTime=69D2BDE8|Referer=https://player.up909.com/</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rennes[/B][/COLOR] [COLOR orange][B]Ligue1+ HD.[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Paris FC vs Brest[/B][/COLOR] [COLOR orange][B]Ligue1+ HD.[/B][/COLOR]</title>
 <link>https://py3hsjj2.04334746.net:8443/hls/2vxvol7d9dsht.m3u8?s=rTGGlYUpBs6StDL9XW3OoA&e=1775422096|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rennes[/B][/COLOR] [COLOR orange][B]Sports.5[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Paris FC vs Brest[/B][/COLOR] [COLOR orange][B]Sports.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://streambtw.com/iframe/ch8.php</page>
 <referer>https://streambtw.com/iframe/</referer>games
 </regex>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lorient vs Paris FC[/B][/COLOR] [COLOR orange][B]SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://yesllahq.28585519.net:8443/hls/twqw57dijwx1t.m3u8?s=zYCdiroXRaG7vmU25J43YQ&e=1777841203</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lorient vs Paris FC[/B][/COLOR] [COLOR orange][B]SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_ligue3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
@@ -3995,7 +3995,7 @@ xml
 </item>
 <!--
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers[/B][/COLOR] [COLOR orange][B]Sports.3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=39|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
@@ -4126,7 +4126,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Le Havre AC Amazon Prime Video__dl[/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Auxerre vs Angers Amazon Prime Video__dl[/B][/COLOR]</title>
 <link>https://webudit.hlsjs.ru/lb/premium108/playlist.m3u8|Referer=https://weblivehdplay.ru/premiumtv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
