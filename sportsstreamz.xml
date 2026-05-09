@@ -44,7 +44,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Liverpool vs Chelsea[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -117,7 +117,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Liverpool vs Chelsea[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -183,7 +183,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Liverpool vs Chelsea[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -233,39 +233,37 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
+-->
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
 
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
 
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
+<link>https://storage.googleapis.com/unicertyngher2/mux_video_ts/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
-<link>https://storage.googleapis.com/bakuknhertyung2/mux_video_ts1/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]ChangeLanguagetoEnglish.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]ChangeLanguagetoEnglish.Adaptive[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH622|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Adaptive.[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Adaptive.[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]SkySport NZ[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.akamaized.net/hdntl=exp=1777888982~acl=%2f*~id=5ab6b213-c1cf-45d6-9f37-10d15da07547~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgwMjYxMiZlaWQ9OTM5NTQwJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a94ea5169b56f65cbbd95557178037d8073e21b2d75b8843a419b7b60e6a5fb4/dash/live/2093753/219035-314047/manifest-d.mpd|key_id=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc::#LISTNAME:[COLOR orange][B]FuboTV Sports CA[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]NBC Universo[/B][/COLOR]::LISTSOURCE:https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1::#LISTNAME:[COLOR orange][B][4] NovaSports[/B][/COLOR]::LISTSOURCE:https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd::</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -273,32 +271,32 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 #LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sports.720p[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sports.720p[/B][/COLOR]</title>
 <link>https://storage.googleapis.com/bungertoregolert2/mux_video_ts1/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]NBC UNIVERSO.AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]NBC UNIVERSO.AQ[/B][/COLOR]</title>
 <link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl2_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/premier-league/newcastle-united-brighton-and-hove-albion-live-stream/1096718</page>
+<page>http://1stream.plus/premier-league/sunderland-manchester-united-live-stream/1097157</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -306,7 +304,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -318,150 +316,42 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]HD.Server.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]HD.Server.1[/B][/COLOR]</title>
 <link>https://lchd-314.zenostreams-cdn-001.com/epl-2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]HD.Server.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]HD.Server.2[/B][/COLOR]</title>
 <link>https://sf-scrapper-hzma.onrender.com/api/stream/soccer/leeds-united-vs-afc-bournemouth.m3u8|Referer=https://livetv.moviebite.cc/</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]HD.Server.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]HD.Server.3[/B][/COLOR]</title>
 <link>https://hls.iill.top/api/Hub-Premier-3/index.m3u8</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]HD.Server.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]HD.Server.4[/B][/COLOR]</title>
 <link>https://daffodil.intelsystech.com.br/leeds.m3u8</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]HD.Server.5[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]HD.Server.5[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4343389.m3u8?txSecret=b0e081726188628a7c56ecde937d90ce&txTime=69ED0F1D|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://atletifan.com/atm/?fans=2</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlik.com/totalsporteks/tracker2/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester United vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch1.php</page>
-<referer>https://streambtw.com/iframe/</referer>games
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl2_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]NowSports.Adaptive[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]UNIVERSO.AQ[/B][/COLOR]</title>
-<link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>http://1stream.plus/premier-league/brentford-west-ham-united-live-stream/1096713</page>
-<referer>https://1stream.plus/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B][6] Server 4[/B][/COLOR]</title>
-<link>https://live.vivo200.com/live/hd-en-1-4343336.m3u8?txSecret=1bb760229f2ae513098b8145ebbc7e66&txTime=69F6478E|Referer=https://player.787200.com/</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
-<link>https://45.hls-syria.live/live/bein4|Referer=https://5live.kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
-    <name>get_sxstream</name>
-    <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
-    <page>$doregex[get_sxstream1]</page>
-    <referer>https://kooraxx.com/</referer>
-</regex>
-<regex>
-    <name>get_sxstream1</name>
-    <expres>&lt;a class="aplr-link(?: active)?" href="(https?://[^"]+\?serv=2)"[^&gt;]*&gt;جوال&lt;/a&gt;</expres>
-    <page>https://4live.kooraxx.com/albaplayer/bein-2/</page>
-    <referer>https://kooraxx.com/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -473,11 +363,11 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlik.com/totalsporteks/tracker3/</page>
+<page>https://backlik.com/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -485,7 +375,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs West Ham United[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Sunderland vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -495,53 +385,48 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl3_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]ChangeLanguagetoEnglish.Adaptive[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH623|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
+<link>https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/premier-league/newcastle-united-crystal-palace-live-stream/1095165</page>
-<referer>https://1stream.plus/</referer>
-</regex>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]NowSports.Adaptive[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]UNIVERSO.AQ[/B][/COLOR]</title>
+<link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/49554</page>
+<page>http://1stream.plus/premier-league/brighton-and-hove-albion-wolverhampton-live-stream/1097150</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -549,33 +434,14 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B][5] Server 3.[/B][/COLOR]</title>
-<link>https://live.vivo200.com/live/hd-en-1-4343369.m3u8?txSecret=ce35e797c66d4abb0c10e81748c51cdc&txTime=69F647BA|Referer=https://player.787200.com/</link>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B][6] Server 4[/B][/COLOR]</title>
+<link>https://live.vivo200.com/live/hd-en-1-4343336.m3u8?txSecret=1bb760229f2ae513098b8145ebbc7e66&txTime=69F6478E|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]skyplussd.720p2[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/skyplussd.m3u8</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
-<link>https://34.hls-syria.live/live/bein2|Referer=https://5live.kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
-    <name>get_sxstream</name>
-    <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
-    <page>$doregex[get_sxstream1]</page>
-    <referer>https://kooraxx.com/</referer>
-</regex>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -587,7 +453,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -599,7 +465,109 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brighton vs Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://streambtw.com/iframe/ch2.php</page>
+<referer>https://streambtw.com/iframe/</referer>games
+</regex>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-epl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p3[/B][/COLOR]</title>
+<link>https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]ChangeLanguagetoEnglish.Adaptive[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH623|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>http://1stream.plus/premier-league/bournemouth-fulham-live-stream/1097153</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*playlist.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/49554</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B][5] Server 3.[/B][/COLOR]</title>
+<link>https://live.vivo200.com/live/hd-en-1-4343369.m3u8?txSecret=ce35e797c66d4abb0c10e81748c51cdc&txTime=69F647BA|Referer=https://player.787200.com/</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]skyplussd.720p2[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/skyplussd.m3u8</link>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://actionx.blog/blogs&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
+<page>https://atletifan.com/atm/?fans=2</page>
+<referer>https://new.sportsfeed24.to/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://tiplink.fans/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
+<page>https://backlik.com/totalsporteks/tracker3/</page>
+<referer>https://new.sportsfeed24.to/</referer>games
+</regex>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
