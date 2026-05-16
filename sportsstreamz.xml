@@ -44,7 +44,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Liverpool[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -117,7 +117,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -183,7 +183,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Liverpool[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -928,83 +928,83 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
-<!--
+-->
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>ttps://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
-<link>matchid:manchester-city-vs-southampton-2462048</link>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sport.720p[/B][/COLOR]</title>
+<link>https://storage.googleapis.com/unghertgnewa1/mux_video_ts/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive2[/B][/COLOR]</title>
 <link>https://instreams.live/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]beIN Sports SD.[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]beIN Sports SD.[/B][/COLOR]</title>
 <link>https://py3hsjj2.04334746.net:8443/hls/yx3xnxj4x9ngn.m3u8?s=4ahJmNWoCWJx5oOuAbH9uw&e=1775422192|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://1stream.plus/fa-cup/west-ham-united-leeds-united-live-stream/1240437</page>
+<page>http://1stream.plus/fa-cup/chelsea-manchester-city-live-stream/1315845</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1012,7 +1012,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*playlist.*?)[",']</expres>
@@ -1024,39 +1024,21 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.TH_1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.TH_1080p1[/B][/COLOR]</title>
 <link>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.TH_1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.TH_1080p2[/B][/COLOR]</title>
 <link>https://live5.msrktz.app/live/97312754.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
-<link>https://38.hls-syria.live/live/bein1|Referer=https://kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
-    <name>get_sxstream</name>
-    <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
-    <page>$doregex[get_sxstream1]</page>
-    <referer>https://kooraxx.com/</referer>
-</regex>
-<regex>
-    <name>get_sxstream1</name>
-    <expres>&lt;a class="aplr-link(?: active)?" href="(https?://[^"]+\?serv=2)"[^&gt;]*&gt;جوال&lt;/a&gt;</expres>
-    <page>https://4live.kooraxx.com/albaplayer/bein-6/</page>
-    <referer>https://kooraxx.com/</referer>
-</regex>
-<thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
-<fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -1068,7 +1050,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://backlik.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -1080,7 +1062,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Leeds United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2114,7 +2096,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -2130,42 +2112,42 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 </item>
 
  1<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
    2<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
  1<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ENGLISH.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ENGLISH.Adaptive1[/B][/COLOR]</title>
 <link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|key_id=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B].Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B].Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]1[/B][/COLOR]::LISTSOURCE:https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd::</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2176,25 +2158,25 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 #LISTNAME:[COLOR orange][B]2[/B][/COLOR]::LISTSOURCE:https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd::#LISTNAME:[COLOR orange][B]3[/B][/COLOR]::LISTSOURCE:https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8::
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]beIN ENGLISH.Adaptive[/B][/COLOR]</title>
 <link>https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sport.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sport.[/B][/COLOR]</title>
 <link>https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_DE_DAZN_2_HD/index.m3u8|Referer=https://kilat-live.com/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/hamburger-sv-sc-freiburg-live-stream/1097164</page>
+<page>http://1stream.plus/bundesliga/fc-bayern-munchen-1-fc-koln-live-stream/1097524</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2202,14 +2184,14 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -2221,28 +2203,28 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Server 1.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Server 1.[/B][/COLOR]</title>
 <link>https://live-pull.aisports.mobi/moviebox/bsy_020/playlist.m3u8?sign=16961d4f88299bf700802ee85fa19289&t=1777822505|Referer=https://sportslivenow.top/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Server 2.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Server 2.[/B][/COLOR]</title>
 <link>https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.720p[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.720p[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4347639.m3u8?txSecret=400900b1f09def72e0b5a9c664e6dbcb&txTime=69F7CB95|Referer=https://player.787200.com/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sport.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sport.Adaptive[/B][/COLOR]</title>
 <link>https://45.hls-syria.live/live/shahid1|Referer=https://4live.kooraxx.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -2254,28 +2236,28 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=11|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]ESPN+.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.1080p2[/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.1[/B][/COLOR]</title>
 <link>juzvernty|Referer=https://kiddyplay.net/playscripts1/?id=2</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*https.*?)[",']</expres>
@@ -2287,7 +2269,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://backlik.com/home/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -2299,7 +2281,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B] [/COLOR][COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2309,77 +2291,77 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-<!--
+-->
 
    3<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
    4<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]ESPN+.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.[/B][/COLOR]</title>
 <link>matchid:ppv-fc-cologne-vs-bayer-leverkusen</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]HD.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]HD.1[/B][/COLOR]</title>
 <link>https://live.uu6611.com/live/hd-en-1-4347610.m3u8?txSecret=536f65525e4fe3650ec31dc5fa2cbdc2&txTime=69D15903|Referer=https://player.up909.com/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]SlyBundesliga.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]SlyBundesliga.2[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=13|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/rb-leipzig-fc-st-pauli-live-stream/1097165</page>
+<page>http://1stream.plus/bundesliga/borussia-dortmund-sv-werder-bremen-live-stream/1097527</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2387,14 +2369,14 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]BUNDESLIGA.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]BUNDESLIGA.1[/B][/COLOR]</title>
 <link>https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://backlik.com/totalsporteks/tracker40-o/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -2406,7 +2388,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs St. Pauli[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2430,77 +2412,77 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<!--
+-->
 
    5<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
    6<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
-<link>matchid:fc-augsburg-vs-eintracht-frankfurt-2276908</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B] [/COLOR][COLOR orange][B]SKY BUNDESLIGA.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
+<link>matchid:fc-augsburg-vs-eintracht-frankfurt-2276908</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B] [/COLOR][COLOR orange][B]SKY BUNDESLIGA.[/B][/COLOR]</title>
 <link>https://live.uu6611.com/live/hd-en-1-4347601.m3u8?txSecret=504d9ed6e28358d564f84ab73ec71364&txTime=69BEF202|Referer=https://player.up909.com</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B] [/COLOR][COLOR orange][B]SlyBundesliga.720p[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B] [/COLOR][COLOR orange][B]SlyBundesliga.720p[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8"</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=14|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]ESPN+.2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=14|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/fc-augsburg-borussia-mgladbach-live-stream/1097163</page>
+<page>http://1stream.plus/bundesliga/rb-leipzig-sc-freiburg-live-stream/1097526</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2508,7 +2490,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -2520,28 +2502,28 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]skybundesliga.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]skybundesliga.[/B][/COLOR]</title>
 <link>https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/ZWevymm11TKF/index.m3u8</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>http://195.178.110.2/hls/HRRRQQ.m3u8|Referer=http://www.fawanews.sc/</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Augsburg vs Mönchengladbach[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2565,34 +2547,34 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+-->
    7<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
    8<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/tsg-hoffenheim-sv-werder-bremen-live-stream/1097166</page>
+<page>http://1stream.plus/bundesliga/bayer-04-leverkusen-hamburger-sv-live-stream/1097521</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2600,35 +2582,35 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]Sports.[/B][/COLOR]</title>
 <link>https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=15|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]ESPN+.[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]ESPN+.[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=15|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -2640,7 +2622,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Werder Bremen[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2650,56 +2632,68 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs FC Augsburg[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs VfB Stuttgart[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs FC Augsburg[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs VfB Stuttgart[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/bundesliga/fc-augsburg-sv-werder-bremen-live-stream/1096727</page>
+<page>http://1stream.plus/bundesliga/vfb-stuttgart-eintracht-frankfurt-live-stream/1097523</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs FC Augsburg[/B][/COLOR] [COLOR orange][B]SonyLIV.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs VfB Stuttgart[/B][/COLOR] [COLOR orange][B]SonyLIV.1[/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
+<link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs St. Pauli[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
-<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs St. Pauli[/B][/COLOR] [COLOR orange][B]SonyLIV.[/B][/COLOR]</title>
-<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs St. Pauli[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=12|Referer=https://vividmosaica.com/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs St. Pauli[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>http://1stream.plus/bundesliga/tsg-hoffenheim-borussia-mgladbach-live-stream/1097522</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -2709,8 +2703,64 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
+-->
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs Mainz[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs Mainz[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>http://1stream.plus/bundesliga/1-fc-heidenheim-1-fsv-mainz-05-live-stream/1097519</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Union Berlin vs FC Augsburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Union Berlin vs FC Augsburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>http://1stream.plus/bundesliga/fc-augsburg-1-fc-union-berlin-live-stream/1097520</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs VfL Wolfsburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun9|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]St. Pauli vs VfL Wolfsburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>http://1stream.plus/bundesliga/fc-st-pauli-vfl-wolfsburg-live-stream/1097525</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
+<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
+</item>
+<!--
 <item>
 <title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive1[/B][/COLOR]</title>
 <link>https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19</link>
