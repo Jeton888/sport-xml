@@ -1010,13 +1010,25 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/49558</page>
+<page>https://gooz.aapmains.net/new-stream-embed/50666</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
+<fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*playlist.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/50668</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
