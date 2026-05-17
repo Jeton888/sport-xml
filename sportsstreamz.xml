@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -928,7 +928,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
--->
+
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -956,7 +956,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
@@ -998,7 +998,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -1048,7 +1048,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2108,7 +2108,7 @@ LISTNAME:[COLOR orange][B][1] SP[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.ak
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -2182,7 +2182,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2303,7 +2303,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 
    3<item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
@@ -2367,7 +2367,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2424,7 +2424,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
--->
+
 
    5<item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
@@ -2488,7 +2488,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Freiburg vs RB Leipzig[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2559,7 +2559,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
--->
+
    7<item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -2580,7 +2580,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayer Leverkusen vs Hamburg SV[/B][/COLOR] [COLOR orange][B]Sports.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2644,7 +2644,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs VfB Stuttgart[/B][/COLOR] [COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>https://web.wbns24.com/user/custom/dialog/userdata.js?main_new-bun5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -2670,7 +2670,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]PKSD.Sources[/B][/COLOR]</title>
 <link>http://futv.myapiservice.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -2691,7 +2691,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mönchengladbach vs TSG Hoffenheim[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2715,7 +2715,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]FC Heidenheim 1846 vs Mainz[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
 <link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
