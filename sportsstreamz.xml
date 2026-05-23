@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -1215,7 +1215,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Hull City vs. Middlesbrough[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <url>dummy</url>
@@ -1314,7 +1314,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>   </title>
 <link>.</link>
@@ -1534,7 +1534,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]SCOTTISH[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Celtic vs. Dunfermline Athletic[/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
 <url>dummy</url>
@@ -1542,7 +1542,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://www.northern-scot.co.uk/_media/img/750x0/O3MB8CYEJ0Y6S0QIG3RJ.jpg</thumbnail>
 <fanart>https://sfa-mainsite.azurewebsites.net/media/7673/scottish-cup-trophy.jpg</fanart>
 </item>
-<!--
+-->
 <item>
 <title>   </title>
 <link>.</link>
@@ -1557,6 +1557,14 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=league%3ALa+Liga&amp;mode=70</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+<!--
    1<item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Sevilla vs Real Madrid[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://storage.googleapis.com/phynterobertung5/mux_video_ts/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -2343,7 +2351,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -2357,7 +2365,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
  1<item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -3007,44 +3015,80 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive1[/B][/COLOR]</title>
-<link>https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19</link>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=title%3ABayern&amp;mode=70</externallink>
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-dfb1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
+<fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
+<fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<link>https://home.comoasto.win/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_bun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
+<fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive1[/B][/COLOR]</title>
+<link>https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19</link>
+<thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
+<fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]Premier Sports 1[/B][/COLOR]::LISTSOURCE:https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|key_id=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f::</link>
+<thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
+<fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive2[/B][/COLOR]</title>
 <link>https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d</link>
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|Referer=https://hardsmart.click/</link>
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>https://daffodil.intelsystech.com.br/espnu.m3u8</link>
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>https://lchd-314.zenostreams-cdn-001.com/dfbpokal.m3u8</link>
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://pl.koooralive.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3056,7 +3100,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://7.hls-syria.live/live/time3|Referer=https://e.kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -3068,7 +3112,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sky Sp0rt DE.1[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sky Sp0rt DE.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://yalla.kora-top.zip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
 <name>get_sxstream</name>
 <expres>token: .*[",'](.*aHR0cHM6.*?)[",']</expres>
@@ -3080,7 +3124,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 <!--
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3092,7 +3136,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
@@ -3104,7 +3148,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
@@ -3116,7 +3160,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://rosopo.xyz/rospo/16.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
@@ -3128,7 +3172,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]VfB Stuttgart vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
+<title>[COLOR red][B]DFB[/B][/COLOR] [COLOR blue][B]POKAL[/B][/COLOR]:[COLOR white][B]Bayern Munich vs. VfB Stuttgart[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/16.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
@@ -3155,29 +3199,29 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]CBSSports.1080p[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]CBSSports.1080p[/B][/COLOR]</title>
 <url>dummy</url>
-<externallink>plugin://plugin.video.Rising.Tides/?url=title%3ABologna&amp;mode=70</externallink>
+<externallink>plugin://plugin.video.Rising.Tides/?url=title%3ABLazio&amp;mode=70</externallink>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-se1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sports.720p[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sports.720p[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=live%3Afootball&amp;mode=70</externallink>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3187,7 +3231,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <link></link>
 -->
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3212,42 +3256,42 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 #LISTNAME:[COLOR orange][B]Sport 1 CZ AQ[/B][/COLOR]::LISTSOURCE:https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d::
 --><!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>gbplayer
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Fancode.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Fancode.Adaptive[/B][/COLOR]</title>
 <link>https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|key_id=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e</link>gbplayer
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.AQ[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.AQ[/B][/COLOR]</title>
 <link>https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,|key_id=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.AQ[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.AQ[/B][/COLOR]</title>
 <link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|key_id=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -3259,14 +3303,14 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.SD[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.SD[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]CBSSports.[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]CBSSports.[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -3278,42 +3322,42 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B][3] Server 1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B][3] Server 1[/B][/COLOR]</title>
 <link>https://smarthard.click/hls/kNChJ1NxVGy/index.m3u8|Referer=https://hardsmart.click/</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B][4] Server 2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B][4] Server 2[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4339716.m3u8?txSecret=e473b236fd4fc87d45e1e3d197a1c9c7&txTime=69F786EC|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B][5] Server 3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B][5] Server 3[/B][/COLOR]</title>
 <link>https://live.vivo200.com/live/hd-en-1-4339729.m3u8?txSecret=be7b24d838df1e0ea37e02d1dd7e2eab&txTime=69EFF691|Referer=https://player.787200.com/</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p2[/B][/COLOR]</title>
 <link>https://hls.686868.me/live/HCONG/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
 <link>https://hls.686868.me/live/HCONG/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.Adaptive[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.Adaptive[/B][/COLOR]</title>
 <link>https://1syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8|Referer=https://6live.kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>AlbaPlayerControl\s*\(\s*['"]([A-Za-z0-9+/=]+)['"]\s*,\s*['"]([^'"]+)['"]\s*\)</expres>
@@ -3325,7 +3369,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://a2.kora-plus.dad/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Origin=https://a2.kora-plus.dad</link><regex>
 <name>get_sxstream</name>
 <expres>token:\s*["']([A-Za-z0-9+/=]+)["']</expres>
@@ -3337,14 +3381,14 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
@@ -3356,7 +3400,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -3368,7 +3412,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -3574,21 +3618,21 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 <!--
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>https://aws.sportslive123.com/user/custom/dialog/userdata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
 <link>https://f1.webinfotex.site/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js?futvred_se1sd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Lazio vs. Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
 <link>https://web.wbnews24.shop/user/custom/dialog/userdata.js?main_new-se1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
