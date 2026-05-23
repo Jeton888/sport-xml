@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -1215,15 +1215,21 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Southampton vs Norwich City[/B][/COLOR] [COLOR orange][B]CBS NETWORK[/B][/COLOR]</title>
-<link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|key_id=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861</link>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Hull City vs. Middlesbrough[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=title%3AHull+City&amp;mode=70</externallink>
 <thumbnail>https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png</thumbnail>
 <fanart>https://static.wixstatic.com/media/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png</fanart>
 </item>
 <!--
-
+<item>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Hull City vs. Middlesbrough[/B][/COLOR] [COLOR orange][B]CBS NETWORK[/B][/COLOR]</title>
+<link>https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|key_id=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861</link>
+<thumbnail>https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png</thumbnail>
+<fanart>https://static.wixstatic.com/media/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png</fanart>
+</item>
 <!--
 <item>
 <title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Leicester City vs Coventry City[/B][/COLOR] [COLOR orange][B]Sp0rts._English_1[/B][/COLOR]</title>
@@ -1236,8 +1242,6 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png</thumbnail>
 <fanart>https://static.wixstatic.com/media/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cc5b6a_ce42d58563d346748a47f03b6cf32261~mv2.png</fanart>
 </item>
-
-
 <!--
 <item>
 <title>   </title>
@@ -1310,7 +1314,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>   </title>
 <link>.</link>
@@ -1325,6 +1329,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
 
+<!--
 <item>
 <title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Aberdeen vs Celtic[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -1529,7 +1534,15 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
-
+-->
+<item>
+<title>[COLOR blue][B]SCOTTISH[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Celtic vs. Dunfermline Athletic[/B][/COLOR] [COLOR orange][B][/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=title%3ACeltic&amp;mode=70</externallink>
+<thumbnail>https://www.northern-scot.co.uk/_media/img/750x0/O3MB8CYEJ0Y6S0QIG3RJ.jpg</thumbnail>
+<fanart>https://sfa-mainsite.azurewebsites.net/media/7673/scottish-cup-trophy.jpg</fanart>
+</item>
+<!--
 <item>
 <title>   </title>
 <link>.</link>
@@ -3125,7 +3138,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -3154,7 +3167,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Atalanta[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -3227,7 +3240,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Atalanta[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://1stream.plus/bundesliga/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
