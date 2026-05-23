@@ -1558,9 +1558,17 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR]</title>
+<title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR] [COLOR orange][B]SERVER 1 - 1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3ALa+Liga&amp;mode=70</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR] [COLOR orange][B]SERVER 2 - MIX[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/LALIGA/1.txt</externallink>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
