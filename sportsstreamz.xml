@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -54,9 +54,18 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]ALL GAMES[/B][/COLOR] [COLOR orange][B]SOURCE 2 - 1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]ALL GAMES[/B][/COLOR] [COLOR orange][B]SOURCE 2 - 1080p&720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/ENGLAND/PL/1.txt</externallink>
+<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
+<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]ALL GAMES[/B][/COLOR] [COLOR orange][B]SOURCE 3 - 720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/ENGLAND/PL/2.txt</externallink>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
