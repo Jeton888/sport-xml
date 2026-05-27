@@ -1567,7 +1567,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://www.northern-scot.co.uk/_media/img/750x0/O3MB8CYEJ0Y6S0QIG3RJ.jpg</thumbnail>
 <fanart>https://sfa-mainsite.azurewebsites.net/media/7673/scottish-cup-trophy.jpg</fanart>
 </item>
--->
+
 <item>
 <title>   </title>
 <link>.</link>
@@ -1586,6 +1586,14 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR] [COLOR orange][B]SERVER 1 - 1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3ALa+Liga&amp;mode=70</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ALL GAMES CLICK HERE[/B][/COLOR] [COLOR orange][B]SERVER 2 - MIX[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/LALIGA/1.txt</externallink>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -3215,7 +3223,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -4917,7 +4925,7 @@ xml
 <thumbnail>https://i.postimg.cc/T1frZgBq/image.png</thumbnail>
 <fanart>https://i.postimg.cc/T1frZgBq/image.png</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -5629,62 +5637,70 @@ xml
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddycon1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sports.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sports.1080p2[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=title%3ABCrystal&amp;mode=70</externallink>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|key_id=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive2[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]SPORTSAQ.Adaptive2[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xzrumhvk25/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|key_id=cdd044e8b6472fa86296bc8eef1fb004:a9b2591e95016a6581ed54492c0047fb</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]TNT SPORTS AQ.Adaptive[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|key_id=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Server 1 - All Devices.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Server 1 - All Devices.[/B][/COLOR]</title>
 <link>https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]beIN Arabic.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic4.m3u8</link>gbplayer
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/shakhtar-donetsk-crystal-palace-live-stream/1303119</page>
+<page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/rayo-vallecano-crystal-palace-live-stream/1325886</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
@@ -5692,36 +5708,48 @@ xml
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sports.2[/B][/COLOR]</title>
 <link>https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/tnt-sports-3.m3u8?md5=51062993cc9560dcd0400ea578659f16&exp=1776371294|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://kiddyplay.net/play/?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Shakhtar Donetsk vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch4.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
+<expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
+<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
+<item>
+<title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
+<name>get_sxstream</name>
+<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://streambtw.com/iframe/ch1.php</page>
+<referer>https://streambtw.com/iframe/ch1.php</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+<!--
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
