@@ -5105,7 +5105,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <url>dummy</url>
@@ -5113,7 +5113,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p[/B][/COLOR]</title>
 <link>https://storage.googleapis.com/qtyngheroverbrix1/mux_video_ts1/index-1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -5122,8 +5122,8 @@ xml
 </item>
 -->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]TNT SPORTS 1.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b::#LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811:18de6d3e65934f3a8de4358e69eab86c::</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -5197,25 +5197,13 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+-->
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/uefa-champions-league-knockout-stage/fc-bayern-munchen-paris-saint-germain-live-stream/1303116</page>
-<referer>https://1stream.plus/</referer>
-</regex>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/50163</page>
+<page>http://1stream.plus/uefa-champions-league-knockout-stage/paris-saint-germain-arsenal-live-stream/1325927</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5227,7 +5215,19 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/50164</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51060</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*playlist.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/51360</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5235,14 +5235,26 @@ xml
 </item>
 <!--
 <item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*playlist.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/50164</page>
+<referer>https://1stream.plus/</referer>
+</regex>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT SPORTS FHD[/B][/COLOR]</title>
 <link>https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/ucl-1.m3u8?md5=7d946b04ba47efc46517e0c62676b178&exp=1776200152|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -5254,7 +5266,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://playreport.link/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
@@ -5266,7 +5278,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.6[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
