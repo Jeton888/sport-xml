@@ -4925,7 +4925,7 @@ xml
 <thumbnail>https://i.postimg.cc/T1frZgBq/image.png</thumbnail>
 <fanart>https://i.postimg.cc/T1frZgBq/image.png</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -5098,7 +5098,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
@@ -5120,7 +5120,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]TNT SPORTS 1.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b::#LISTNAME:[COLOR orange][B]FOX DEPORTES.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|key_id=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811:18de6d3e65934f3a8de4358e69eab86c::</link>
@@ -5197,7 +5197,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -5252,7 +5252,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -6454,3 +6454,25 @@ xml
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 -->
+<item>
+<title>                           </title>
+<link>https://dash2.antik.sk/</link>
+<thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]++=[/B][/COLOR][COLOR orange][B]WORLD[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/england.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FRIENDLY[/B][/COLOR]:[COLOR white][B]ALL GAMES[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=league%3AInternational+Friendly&amp;mode=70</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
