@@ -136,7 +136,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51900</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51944</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -148,7 +148,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51908</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51949</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -156,11 +156,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Qatar vs Switzerland[/B][/COLOR] [COLOR orange][B]Sp0rt.3.ITV[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Qatar vs Switzerland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51932</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51950</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
