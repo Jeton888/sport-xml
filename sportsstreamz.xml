@@ -46,63 +46,74 @@
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3AFIFA+World+Cup+2026&amp;mode=70</externallink>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
--->
+
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]FOX.4K[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]FOX.4K[/B][/COLOR]</title>
 <link>https://nl-081-v1.vivocdn.xyz/1781403818/22c4ac5145c04277ab622402913e1160/YTeBtqSfQpJbSB0Ezg95r4bWqXahp6lCNBdZJg1vec8/fox4k-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
-<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
-<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; CPH2585 Build/TP1A.220905.001)</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]FOX.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]TSN.1080p[/B][/COLOR]</title>
+<link>https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]FS1.1080p[/B][/COLOR]</title>
+<link>https://nl-081-v1.vivocdn.xyz/1781418526/3bdb9c0ca5444b11a949971305fa991c/uuNirllbfWWV3HPSccY_v7t6Zxdwc-JgNt-VI2-cJS8/us-list/0c6964d26bcd450cb7d8c8af10b9da20/https%3A%2F%2Fdynaman-nv-4.slg.dishtech.org%2Fmanifest%2F560%2Fwidevine%2Fvideo%2FdjyRNc3MSaaGvYBHGIFjKw%2F1781409527%2F28%2Fp-cdn4-806-cg14-linear-cbd46b77.movetv.com%2Fvid06.m3u8%3Flocation_zip%3Dsling.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]FOX.Adaptive[/B][/COLOR]</title>
 <link>https://nl-081-v1.vivocdn.xyz/1781403799/1933cf492ecc4905998ff41d45aaaeba/C47BcPJQfVx8PxG1pnI9h0ksCgZdMX67GPzyXsRaE7M/fox-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]BBC.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]BBC.1080p[/B][/COLOR]</title>
 <link>https://nl-081-v1.vivocdn.xyz/1781404148/627af90b53974f4c98f0668d71946731/858Wkkf09VCg3y_zQArY17273va6r7WJYf6jmgUpYNg/bbcone-uk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Adaptive.Links[/B][/COLOR]</title>
-<link>#LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|key_id=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003::
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Adaptive.Links[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]FS1[/B][/COLOR]::LISTSOURCE:https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd|key_id=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16::#LISTNAME:[COLOR orange][B]Fox Sports 1[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|key_id=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16::
 </link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
+LISTNAME:[COLOR orange][B]FOX[/B][/COLOR]::LISTSOURCE:https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|key_id=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7::
+
+LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|key_id=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003::#
+
 LISTNAME:[COLOR orange][B][1] SP - 1[/B][/COLOR]::LISTSOURCE::https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]SKY SPORTS NZ[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.akamaized.net/hdntl=exp=1779158076~acl=%2F*~id=341cec7b-33c8-4f73-b865-d9643441454b~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNSZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=625598d228a5556533ef83cc177d554ecc8bd6f48507c930be4c58d510fe5687/dash/live/2093712/219035-321027/manifest-d.mpd|key_id=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc::#LISTNAME:[COLOR orange][B]NBC Universo[/B][/COLOR]::LISTSOURCE:https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f::
 
 #LISTNAME:[COLOR orange][B]UNIVERSO[/B][/COLOR]::LISTSOURCE:https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1::
@@ -111,53 +122,53 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]AQ[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]fuboTVSports[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?encoding=segmentBase|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]Sky Sport NZ[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.akamaized.net/hdntl=exp=1777979072~acl=%2F*~id=3544e2aa-ed11-42a6-8f95-7d1f018ffc88~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3Nzg5MjcwMiZlaWQ9OTM1NjI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=355ac1317ec9f634e0c902f5e8ca0c3330e2e1571a0c980afda6de1aae81dc13/dash/live/2093753/219035-314047/manifest-d.mpd|key_id=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc::</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B][4] SP - 4[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B][4] SP - 4[/B][/COLOR]</title>
 <link>https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https?st=chorsalo</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Universo.AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Universo.AQ[/B][/COLOR]</title>
 <link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]NowSp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]NowSp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B][COLOR orange][B]FUBO SPORTS - AQ.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]universo-east[/B][/COLOR]::LISTSOURCE:https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f::</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51994</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52005</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -165,11 +176,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51995</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52006</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -177,7 +188,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -189,7 +200,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -201,7 +212,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -213,7 +224,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -225,7 +236,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Australia vs Türkiye[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
