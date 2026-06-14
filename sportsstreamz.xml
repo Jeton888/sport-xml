@@ -46,7 +46,7 @@
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3AFIFA+World+Cup+2026&amp;mode=70</externallink>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -54,28 +54,49 @@
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]FOX.4K[/B][/COLOR]</title>
+<link>https://nl-081-v1.vivocdn.xyz/1781403818/22c4ac5145c04277ab622402913e1160/YTeBtqSfQpJbSB0Ezg95r4bWqXahp6lCNBdZJg1vec8/fox4k-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
-<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
-<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Adaptive.Links[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]FOX.Adaptive[/B][/COLOR]</title>
+<link>https://nl-081-v1.vivocdn.xyz/1781403799/1933cf492ecc4905998ff41d45aaaeba/C47BcPJQfVx8PxG1pnI9h0ksCgZdMX67GPzyXsRaE7M/fox-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]BBC.1080p[/B][/COLOR]</title>
+<link>https://nl-081-v1.vivocdn.xyz/1781404148/627af90b53974f4c98f0668d71946731/858Wkkf09VCg3y_zQArY17273va6r7WJYf6jmgUpYNg/bbcone-uk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Adaptive.Links[/B][/COLOR]</title>
 <link>#LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|key_id=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003::
 </link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -90,53 +111,53 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]AQ[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]fuboTVSports[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?encoding=segmentBase|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]Sky Sport NZ[/B][/COLOR]::LISTSOURCE:https://dice-live-oc.akamaized.net/hdntl=exp=1777979072~acl=%2F*~id=3544e2aa-ed11-42a6-8f95-7d1f018ffc88~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3Nzg5MjcwMiZlaWQ9OTM1NjI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=355ac1317ec9f634e0c902f5e8ca0c3330e2e1571a0c980afda6de1aae81dc13/dash/live/2093753/219035-314047/manifest-d.mpd|key_id=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc::</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B][4] SP - 4[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B][4] SP - 4[/B][/COLOR]</title>
 <link>https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https?st=chorsalo</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Universo.AQ[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Universo.AQ[/B][/COLOR]</title>
 <link>https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]NowSp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]NowSp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/akami.js?id=CH621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B][COLOR orange][B]FUBO SPORTS - AQ.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|key_id=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f::#LISTNAME:[COLOR orange][B]universo-east[/B][/COLOR]::LISTSOURCE:https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|key_id=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f::</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51980</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51994</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -144,19 +165,19 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/51981</page>
+<page>https://gooz.aapmains.net/new-stream-embed/51995</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
@@ -166,9 +187,9 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -180,11 +201,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://maslaz.com/laz/?t=1</page>
+<page>https://maslaz.com/mas/?t=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -192,8 +213,8 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
 <page>https://soccerball.st/rampages/searccch1/</page>
@@ -204,7 +225,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Brazil vs Morocco[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Haiti vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -405,10 +426,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Arsenal vs Burnley[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -417,10 +438,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Arsenal vs Burnley[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -578,10 +599,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -590,10 +611,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -675,10 +696,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Chelsea vs Tottenham Hotspur[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -687,10 +708,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Chelsea vs Tottenham Hotspur[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -784,10 +805,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -796,10 +817,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Brentford vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -853,10 +874,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Fulham[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=4</page>
+<page>https://maslaz.com//?kiddy=4</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -865,10 +886,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Fulham[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -940,10 +961,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=5</page>
+<page>https://maslaz.com//?kiddy=5</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -952,10 +973,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker5/</page>
+<page>https://soccerball.st/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1014,10 +1035,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Everton vs. Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker4/</page>
+<page>https://soccerball.st/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1026,10 +1047,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Everton vs. Wolves[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=8</page>
+<page>https://maslaz.com//?kiddy=8</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1096,10 +1117,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Burnley vs. Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker7/</page>
+<page>https://soccerball.st/totalsporteks/tracker7/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1108,10 +1129,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Burnley vs. Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
@@ -1273,10 +1294,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1285,10 +1306,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1335,10 +1356,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Port Vale vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=3</page>
+<page>https://maslaz.com//?kiddy=3</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1347,10 +1368,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Port Vale vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1390,10 +1411,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Newcastle United vs. AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=n2</page>
+<page>https://maslaz.com//?kiddy=n2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
@@ -1627,10 +1648,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Aberdeen vs Celtic[/B][/COLOR] [COLOR orange][B]SPFL Feed[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=n1</page>
+<page>https://maslaz.com//?kiddy=n1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
@@ -1966,7 +1987,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Sevilla vs Real Madrid[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/totalsporteks/tracker4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/totalsporteks/tracker4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
 <page>https://ballstrong.click/totalsporteks/tracker1/</page>
@@ -2084,10 +2105,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Girona vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.[/B][/COLOR]</title>
-<link>juzvernty|Referer=https://kiddyplay.net/playscripts1/?id=1</link><regex>
+<link>juzvernty|Referer=https://maslaz.com/scripts1/?id=1</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*https.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
@@ -2096,10 +2117,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Girona vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
@@ -2326,10 +2347,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR gold][B]COPA[/COLOR] [COLOR red][B]DEL[/B][/COLOR] [COLOR pink][B]REY[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=5</page>
+<page>https://maslaz.com//?kiddy=5</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
@@ -2338,10 +2359,10 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR gold][B]COPA[/COLOR] [COLOR red][B]DEL[/B][/COLOR] [COLOR pink][B]REY[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker5/</page>
+<page>https://soccerball.st/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
@@ -2739,10 +2760,10 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.1[/B][/COLOR]</title>
-<link>juzvernty|Referer=https://kiddyplay.net/playscripts1/?id=2</link><regex>
+<link>juzvernty|Referer=https://maslaz.com/scripts1/?id=2</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*https.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -2751,11 +2772,11 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs FC Cologne[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/home/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/home/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
-<referer><page>https://backlinkz.click/totalsporteks/tracker4/</referer>games
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
+<referer><page>https://soccerball.st/totalsporteks/tracker4/</referer>games
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2858,11 +2879,11 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <!--
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Werder Bremen vs Borussia Dortmund[/B] [/COLOR][COLOR orange][B]Sky.Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/totalsporteks/tracker40-o/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/totalsporteks/tracker40-o/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker8/</page>
-<referer><page>https://backlinkz.click/totalsporteks/tracker/</referer>games
+<page>https://soccerball.st/totalsporteks/tracker8/</page>
+<referer><page>https://soccerball.st/totalsporteks/tracker/</referer>games
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3639,10 +3660,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Napoli vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=n1</page>
+<page>https://maslaz.com//?kiddy=n1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3651,10 +3672,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Napoli vs Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3716,10 +3737,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <!--
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cremonese vs Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>https://do.ballgeo.sbs/status/13/fronts.woff2?dd1544|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>https://do.ballgeo.sbs/status/13/fronts.woff2?dd1544|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=4</page>
+<page>https://maslaz.com//?kiddy=4</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3728,10 +3749,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cremonese vs Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3773,10 +3794,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <!--
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs. Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=3</page>
+<page>https://maslaz.com//?kiddy=3</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3785,10 +3806,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs. Udinese[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3821,10 +3842,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <!--
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Napoli1 vs. Juventus[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=3</page>
+<page>https://maslaz.com//?kiddy=3</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3833,10 +3854,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Napoli1 vs. Juventus[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -3965,10 +3986,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR green][B]COPPA[/B][/COLOR] [COLOR red][B]ITALIA[/B][/COLOR]:[COLOR white][B]Lazio vs Internazionale[/B][/COLOR] [COLOR orange][B]Sport.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
@@ -4127,10 +4148,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <!--
 <item>
 <title>[COLOR green][B]COPPA[/B][/COLOR] [COLOR red][B]ITALIA[/B][/COLOR]:[COLOR white][B]Lazio vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=3</page>
+<page>https://maslaz.com//?kiddy=3</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
@@ -4139,10 +4160,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR green][B]COPPA[/B][/COLOR] [COLOR red][B]ITALIA[/B][/COLOR]:[COLOR white][B]Lazio vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker9/</page>
+<page>https://soccerball.st/totalsporteks/tracker9/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
@@ -4409,10 +4430,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lens vs PSG[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.[/B][/COLOR]</title>
-<link>https://pa.hometonet2.sbs/status/5/fronts.woff2?9ef81b|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>https://pa.hometonet2.sbs/status/5/fronts.woff2?9ef81b|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=8</page>
+<page>https://maslaz.com//?kiddy=8</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -4421,10 +4442,10 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lens vs PSG[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -4781,10 +4802,10 @@ xml
 
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Lens[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.3[/B][/COLOR]</title>
-<link>juzvernty|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>juzvernty|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source =.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker6/</page>
+<page>https://soccerball.st/totalsporteks/tracker6/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
@@ -5017,10 +5038,10 @@ xml
 <!--
 <item>
 <title>[COLOR red][B]COUPE[/B][/COLOR] DE [COLOR blue][B]FRANCE[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=5</page>
+<page>https://maslaz.com//?kiddy=5</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/T1frZgBq/image.png</thumbnail>
@@ -5244,7 +5265,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5253,10 +5274,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Barcelona vs Newcastle United[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5443,7 +5464,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5455,7 +5476,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://playreport.link/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5596,7 +5617,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5605,10 +5626,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5707,7 +5728,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5716,10 +5737,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Freiburg vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5797,7 +5818,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5806,10 +5827,10 @@ xml
 <!--
 <item>
 <title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5917,7 +5938,7 @@ xml
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
@@ -5926,10 +5947,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
@@ -6040,10 +6061,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=1</page>
+<page>https://maslaz.com//?kiddy=1</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6064,10 +6085,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker1/</page>
+<page>https://soccerball.st/totalsporteks/tracker1/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6112,10 +6133,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=2</page>
+<page>https://maslaz.com//?kiddy=2</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6136,10 +6157,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker3/</page>
+<page>https://soccerball.st/totalsporteks/tracker3/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6185,10 +6206,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=4</page>
+<page>https://maslaz.com//?kiddy=4</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6209,10 +6230,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker2/</page>
+<page>https://soccerball.st/totalsporteks/tracker2/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6257,10 +6278,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=3</page>
+<page>https://maslaz.com//?kiddy=3</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6281,10 +6302,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker4/</page>
+<page>https://soccerball.st/totalsporteks/tracker4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6329,10 +6350,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://kiddyplay.net/play&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://kiddyplay.net/play/?kiddy=5</page>
+<page>https://maslaz.com//?kiddy=5</page>
 <referer>https://new.sportsfeed24.to/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -6353,10 +6374,10 @@ xml
 
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://backlinkz.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://backlinkz.click/totalsporteks/tracker5/</page>
+<page>https://soccerball.st/totalsporteks/tracker5/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
