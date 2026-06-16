@@ -46,7 +46,7 @@
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]SOURCE 1 - 1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3AFIFA+World+Cup+2026&amp;mode=70</externallink>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -54,14 +54,14 @@
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Fox_4k.2160p[/B][/COLOR]</title>
-<link>https://vixxox.cdx-08191.space/1781644970/7d1c828989a64f15b71e047d55767624/KSq2H7zlykdDGStS7zw-VDKhYq8HSSCV_mQN-YS06zY/fox4k-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Fox_4k[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]Fox4K_1[/B][/COLOR]::LISTSOURCE:https://mikiprobot.cfd/live/4622e1e5e6/2095902.m3u8?t=a0944d9c6a5a6dcda78c58ec&e=1781662713|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0::#LISTNAME:[COLOR orange][B]Fox4K_2[/B][/COLOR]::LISTSOURCE:https://mikiprobot.cfd/live/4622e1e5e6/2077049.m3u8?t=f10034f0ad9e77a3a0b37585&e=1781662684|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0::#</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
@@ -70,68 +70,65 @@
 #LISTNAME:[COLOR orange][B]putthechannelhere[/B][/COLOR]::LISTSOURCE:puttheurlhere|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36::
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Adaptive Links[/B][/COLOR]</title>
-<link></link>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Adaptive Links_2[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]Fox[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655637/3cf4683d4e3e46e59e3bd3b1188d64f8/PzCM_WyJmQmzShA51sSMdwvMbaWGs3IZEg2XfEP1aOM/fox-usa.m3u8::#
+LISTNAME:[COLOR orange][B]FOX (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655637/d1b44b0e741b438cbc22495d1a50655f/e1jaXp73TIWPWkxOlKcUkRi34tJTQunf93gIyB60Ic4/fox4k-usa.m3u8::#
+LISTNAME:[COLOR orange][B]Telemudo[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655637/4591777a91074e6b891d0e8d58a2ac9e/b-tLXPVBFJUs-cT_QmYuRd-Fw73GtURUDa0L6bFlESM/telemundo-usa.m3u8::#
+LISTNAME:[COLOR orange][B]FUSBALL TV 1 (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655638/abee62992e3949c5bc047e997cc5a1fd/NiP3L0KkaGu2WGqSv9BxoHFacAtlnDHipWOJDh3f24Y/fusballtv1uhd-de.m3u8::#
+LISTNAME:[COLOR orange][B]FUSBALL TV Tatical Cam (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655638/321cb9092cec46a49267136b7ad0f841/SvDbcRQLPuJ9d0ce22oO2_ADGFvBc1ubN9cRrWfQEkM/fusballtv2uhd-de.m3u8::#
+LISTNAME:[COLOR orange][B]FUSBALL TV No Commentary (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655638/d4c6676e19964afa9dac57e935a21d65/rI6f7BMVN-DuXjTs2v6duKnd6hyzx6cEWBbyu5g-u4I/fusballtvuhd-de.m3u8::#
+LISTNAME:[COLOR orange][B]BBC iPlayer (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655638/5ef2a8d9ac00487eaa031dfb032ce533/JN7n0Eai_g1V5sEKjaH6_7yHZvvMxH8kTCanRjYcFxM/bbc-4k.m3u8::#
+LISTNAME:[COLOR orange][B]beIN Sports Arabia (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655639/616a135a5827485eac49450aa3744a8b/RXHJUi_PUDPiluL4Qx8QrSBxImqfJR_MnCWW0qafIaw/beinsportsuhd-sa.m3u8::#
+LISTNAME:[COLOR orange][B]M6 France[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655639/c2fafb77a712499e8982843c1322d626/y_NEmo8CFJATRgPVfVkJUEMvvBTJRkkGg499-hEbkj0/m6-fr.m3u8::#
+LISTNAME:[COLOR orange][B]beIN Sports 1 France[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655639/bdcac49aa3bd4d9c9735e69b5f1846f2/XaB6yRsN3lkIMC40ogwtkJ8xk9qn7P6znk2gCP4fQ2Q/beinsports1-fr.m3u8::#
+LISTNAME:[COLOR orange][B]Sport TV1 Portugal[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655639/a5a8c3a922444fdd82b41377e897288e/Qo9I3PuC6TGtCn6EY0K9GYfub8edM5orWSZ87kwGvuU/sporttv1-pt.m3u8::#
+LISTNAME:[COLOR orange][B]BBC One United Kingdom[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655640/334362999fbb4e98b82e2eb2a798e415/q3uA6iK-801KN34q8tTTwJK4W_-AxL3eDbLVjxH5RyM/bbcone-uk.m3u8::#
+LISTNAME:[COLOR orange][B]beIN Sports MAX 2 Arabia[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655640/0049b2dea5514f55ae92672ae1107fc8/3GGJHTvW4gEIkqTeJuLAN40pnugJ1-JkvAuQC9Ow464/beinsportsmax2-sa.m3u8::#
+LISTNAME:[COLOR orange][B]beIN Sports MAX 4 Arabia[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655640/edd94a3ebfd347c9842c5642192ca5a0/hWSGi_VYj0bJQhFyuXWkvT74y1OAmTVYH9WM7C14xcU/beinsportsmax4-sa.m3u8::#
+LISTNAME:[COLOR orange][B]CazeTV Brasil[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655640/4c69e9475c674eca843e5f46bdb497d6/erqVbqvO7UJWbsQZgfuZNZt7f4vxkxeV2HoSKiWw8CQ/cazetv-br.m3u8::#
+LISTNAME:[COLOR orange][B]ORF 1 Germany[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655641/284046b581a845cea0f9a631e78f2835/tab32FOX5o7DBJCOOCiwvhxW3bDrnbKHRrDa08Q6_U8/orf1-de.m3u8::#
+LISTNAME:[COLOR orange][B]DSports Argentina[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08192.space/1781655641/17b3bb0e6ac14ad4ae1963ba984efdcf/A9lziBwhYcdvZIGj7Jqr2cBXj4tfTI9GpDUUUEi9Nac/dsports-ar.m3u8::#</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
-<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
-<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Adaptive Links_1[/B][/COLOR]</title>
-<link>LISTNAME:[COLOR orange][B]Fox[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645250/67fab1ebab994feea497c2f5042d470e/IN19tyauLfuX_DqWri57AIoLG2vqgGfvdp5x8BLcg1A/fox-usa.m3u8::#
-LISTNAME:[COLOR orange][B]FOX (FHD)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645251/6fce4bedf3c44fdfa90c553aa37eac1f/DmF9FYa0cU7BEkrGDz9iAK7lkjFXruq-gxI9Es7hAYU/foxprime-usa.m3u8::#
-LISTNAME:[COLOR orange][B]FOX (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645253/c01a2ac194a245c39c2a5a76d57f26b2/0icSXGbescd3_-3aitWAcvHpIMImRV7WISeGoB-NWbI/fox4k-usa.m3u8::#
-LISTNAME:[COLOR orange][B]Telemudo[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645255/fc7ba889e3c5452a8a25e434c6489cad/PM5YlVKl1iF_J-LkuQhG7qWPO8snfvtamfyNPKETg6U/telemundo-usa.m3u8::#
-LISTNAME:[COLOR orange][B]Peacock (Spanish)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645257/8d5564d39ccf4ac395a9d68e799ba38a/ScYUQTTPGSLsUecqdq8r_6g6owoZGnsP3OxWzoNpATk/peacock-1.m3u8::#
-LISTNAME:[COLOR orange][B]FUSBALL TV 1 (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645259/00bd36c744d3443790320de3c6099757/Csn5-Zjbqsz_cHZQZuwvGYw-k1lkGdAhELj_UEGrrEg/fusballtv1uhd-de.m3u8::#
-LISTNAME:[COLOR orange][B]FUSBALL TV Tatical Cam (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645260/0e641d911c3341d3aef470228ae70a23/5P1M8oeqSXomq_c3Wu_1xTaAONWS3qh5nwLh8yjNzOo/fusballtv2uhd-de.m3u8::#
-LISTNAME:[COLOR orange][B]FUSBALL TV No Commentary (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645262/39a8755ac3424a39bb3845eb842d686b/B3A6YxUCr7qX0bgs3QTO4N_hRfQujIP82J2cAHbZ8-o/fusballtvuhd-de.m3u8::#
-LISTNAME:[COLOR orange][B]BBC iPlayer (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645263/b3d16bd941f3400db0ab99bd48b3bc68/hhT7N4UhJTvsygTGbjgw0Eg3lFyUm1m_vZyJ81aeiXQ/bbc-4k.m3u8::#
-LISTNAME:[COLOR orange][B]beIN Sports Arabia (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645265/7fed10b5a85040c6814e280578e0ce31/VM98vOAlJJq_GlTsiGd3mr0AmNoZDqWp_ncufkYt78g/beinsportsuhd-sa.m3u8::#
-LISTNAME:[COLOR orange][B]M6 France (4K HEVC)[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645268/6c389ddc78f74be4ab6212411a7faf52/EY3Fp4HYH_1KpXIwmfl3LE61lvSrMsrf_z1KXpsZrUI/m6uhd-fr.m3u8::#
-LISTNAME:[COLOR orange][B]M6 France[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645269/8df899b4e24c4f2c839cb07eb83335ed/WwW2jsMMsL_kuHGzwl_ZNtXeewtvzHJfDtDsi66g154/m6-fr.m3u8::#
-LISTNAME:[COLOR orange][B]beIN Sports 1 France[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645272/8f4c5ae60b0648eb80c8ce79877a3151/p9Q1d7lmMxXcyafR4bBnbJ3Ba19EOg2KSvWQMov4Fvs/beinsports1-fr.m3u8::#
-LISTNAME:[COLOR orange][B]Sport TV1 Portugal[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645273/ff71f0a5e248409ba7c8c7cec69725e1/XSjQO-3nFU3Lk8SLa9I7KLx2D046uKM70eWH9EopxF4/sporttv1-pt.m3u8::#
-LISTNAME:[COLOR orange][B]BBC One United Kingdom[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645275/82d2b155018f4fd189766cbb4f2b81ec/4xONmrnBp6R8SRdS553OGsqh1avuHujw3XnPKyjWraQ/bbcone-uk.m3u8::#
-LISTNAME:[COLOR orange][B]beIN Sports MAX 1 Arabia[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645276/0a69aac0a8214c50866aa7475a2a3431/ERxJQhwLPgrMCAai3YjgJzoFQVdJTivLik-nfgiAFqc/beinsportsmax-sa.m3u8::#
-LISTNAME:[COLOR orange][B]beIN Sports MAX 3 Arabia[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645277/9deb6f6598934d3eacf60a2a064791b7/t_fASeAHGf645Kdcw5NdSWAi3XBcIzvjcDB6jTEB_A4/beinsportsmax3-sa.m3u8::#
-LISTNAME:[COLOR orange][B]CazeTV Brasil[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645279/50788af175214fd5a6e1e148253d84b5/hTZr7JznJHNLfZL-1iq9HbMtHP2wSJBDDWhfXbMSuMU/cazetv-br.m3u8::#
-LISTNAME:[COLOR orange][B]ORF 1 Germany[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645281/717fbe676278404ebcb95c2f1d140fba/nWfJ356FY3TTIgFNvmNVW5niYGSMjhnYddNIP5kX2SA/orf1-de.m3u8::#
-LISTNAME:[COLOR orange][B]DSports Argentina[/B][/COLOR]::LISTSOURCE:https://vixxox.cdx-08191.space/1781645283/cf6935ef72cc46639e562e8fd370df37/jKEba1zRnym2IalQLqC_G0SYJzs192JWuo94jBWw500/dsports-ar.m3u8::#</link>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Adaptive Links_1[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]TSN SPORTS FHD[/B][/COLOR]::LISTSOURCE:https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|key_id=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d::#LISTNAME:[COLOR orange][B]CAZE TV FHD[/B][/COLOR]::LISTSOURCE:https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|key_id=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38::#LISTNAME:[COLOR orange][B]TELEMUNDO SPANISH[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/2/0|key_id=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11::#LISTNAME:[COLOR orange][B]beIN MAX FHD[/B][/COLOR]::LISTSOURCE:https://www.mdrstore.shop/s2_bn_max_2_fhd/tracks-v1a1/mono.m3u8::#LISTNAME:[COLOR orange][B]Somoy TV HD[/B][/COLOR]::LISTSOURCE:https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8::#LISTNAME:[COLOR orange][B]ZEE5 Bangla[/B][/COLOR]::LISTSOURCE:https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/s4lfCh4NB9jMw3TKPqrnlMvDOj0epcbuTfIToD3tm_mX95aZj8vJe8v1k8HDyco_V5TC6p-5oPDbbUp7WELQrQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live::#LISTNAME:[COLOR orange][B]CIGNAL ENGLISH[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/6/0|key_id=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050::#LISTNAME:[COLOR orange][B]FUSSBALL 4K [GER][/B][/COLOR]::LISTSOURCE:https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd|key_id=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac::#LISTNAME:[COLOR orange][B]TELEMUNDO FHD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/8/0|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1::#LISTNAME:[COLOR orange][B]D Sports FHD[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|key_id=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79::#LISTNAME:[COLOR orange][B]TIPIK FR FHD[/B][/COLOR]::LISTSOURCE:https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd|key_id=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a::#LISTNAME:[COLOR orange][B]Sporza DUTCH FHD[/B][/COLOR]::LISTSOURCE:https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd|key_id=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91::#LISTNAME:[COLOR orange][B]Match Football FHD[/B][/COLOR]::LISTSOURCE:https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd|key_id=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114::#LISTNAME:[COLOR orange][B]RTB GOLIVE FHD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/13/0::#LISTNAME:[COLOR orange][B]RTE Sports - AQ (English)[/B][/COLOR]::LISTSOURCE:https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd|key_id=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d::#LISTNAME:[COLOR orange][B]D Sports + - AQ (Spanish)[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|key_id=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79::#LISTNAME:[COLOR orange][B]IRIB - 4k (Farsi)[/B][/COLOR]::LISTSOURCE:https://ncdn.telewebion.ir/faratar/live/playlist.m3u8::#LISTNAME:[COLOR orange][B]RTVE - AQ (Spanish)[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|key_id=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa::#LISTNAME:[COLOR orange][B]Caze TV - AQ (Portuguese)[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|key_id=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457::#LISTNAME:[COLOR orange][B]Zee5 - AQ (Bengali)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/19/0|key_id=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc::#LISTNAME:[COLOR orange][B]Zee5 - AQ (Hindi)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/20/0::#LISTNAME:[COLOR orange][B]M6 - AQ (French)[/B][/COLOR]::LISTSOURCE:https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|key_id=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3::#LISTNAME:[COLOR orange][B]Auvio Sports - AQ (French)[/B][/COLOR]::LISTSOURCE:https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/faed51fb.isml/.mpd?t=2026-06-16T21:14:00.000|key_id=80f2b5af174f4ce7b725fe8069ebbdef:e98739b2f06ae04152d151595ce1c417::#LISTNAME:[COLOR orange][B]RTS Sports - AQ (French)[/B][/COLOR]::LISTSOURCE:https://rts-crexifytv-922c.samin36x.workers.dev/out/v1/c52db1dbea0e4df8940ba3898d142cc7/index.m3u8?start=1781646270::#LISTNAME:[COLOR orange][B]ORF - AQ (German)[/B][/COLOR]::LISTSOURCE:https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd|key_id=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398::#LISTNAME:[COLOR orange][B]RAI - AQ (Italy)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/25/0::#LISTNAME:[COLOR orange][B]JOJ Sports - AQ (Slovak)[/B][/COLOR]::LISTSOURCE:https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd|key_id=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d::#LISTNAME:[COLOR orange][B]UZ Sports - AQ (Uzbek)[/B][/COLOR]::LISTSOURCE:https://stream1.cinerama.uz/1004/index.m3u8::#LISTNAME:[COLOR orange][B]beIN Arabic Max HD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/28/0::#LISTNAME:[COLOR orange][B]beIN Arabic Max SD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/29/0::#LISTNAME:[COLOR orange][B]beIN Arabic Max Low[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/30/0::#LISTNAME:[COLOR orange][B]TVP Sports HD (Polish)[/B][/COLOR]::LISTSOURCE:https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd::#LISTNAME:[COLOR orange][B]Fox Sports - AQ (English)[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd|key_id=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824::#LISTNAME:[COLOR orange][B]FOX ONE 4K[/B][/COLOR]::LISTSOURCE:https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0zyzcgeq2w/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|key_id=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d::#LISTNAME:[COLOR orange][B]Now Sports S2 - 4K[/B][/COLOR]::LISTSOURCE:https://nowp.wasabih.net/channel/616/master.mpd::#LISTNAME:[COLOR orange][B]MIKI TV - AQ (BDIX)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/39/0::#LISTNAME:[COLOR orange][B]Fox Sports[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|key_id=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16::#LISTNAME:[COLOR orange][B]Dsports[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/41/0|key_id=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79::#LISTNAME:[COLOR orange][B]CTV Sports[/B][/COLOR]::LISTSOURCE:https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|key_id=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157::#LISTNAME:[COLOR orange][B]MikiFlash[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/44/0::#LISTNAME:[COLOR orange][B]RTE SPORTS FHD[/B][/COLOR]::LISTSOURCE:https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd|key_id=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d::#LISTNAME:[COLOR orange][B]FOX SPORTS FHD[/B][/COLOR]::LISTSOURCE:https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|key_id=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7::#LISTNAME:[COLOR orange][B]TRT SPORTS 2K[/B][/COLOR]::LISTSOURCE:https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8::#LISTNAME:[COLOR orange][B]DAZN SPANISH[/B][/COLOR]::LISTSOURCE:https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8::#LISTNAME:[COLOR orange][B]beIN Arabic - AQ[/B][/COLOR]::LISTSOURCE:https://no-red.pages.dev/liveop2.m3u8::#LISTNAME:[COLOR orange][B]Miki Fast[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/51/0::#LISTNAME:[COLOR orange][B]BBC SPORTS HD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/52/0::#LISTNAME:[COLOR orange][B]FAST SERVER[/B][/COLOR]::LISTSOURCE:https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJZZ8dtXscr.m3u8?txSecret=5d49c4b2940bd2aad397e40bf4bfed71&txTime=6A31C238::#LISTNAME:[COLOR orange][B]FOX SPORTS HD[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/54/0::#LISTNAME:[COLOR orange][B]RTB Go - AQ (English)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/56/0::#LISTNAME:[COLOR orange][B]Telemundo - AQ (Spanish)[/B][/COLOR]::LISTSOURCE:https://sports.dudushot.lol/api/3rvmeQg5UrLUQeK4XJVV3TvG/stream/58/0|key_id=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1::#LISTNAME:[COLOR orange][B]Fox Sports - 4K[/B][/COLOR]::LISTSOURCE:https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0zyzcgeq2w/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|key_id=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d::#LISTNAME:[COLOR orange][B]TRT - 2k (Turkish)[/B][/COLOR]::LISTSOURCE:https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8::#LISTNAME:[COLOR orange][B]TIPIK - AQ (French)[/B][/COLOR]::LISTSOURCE:https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd|key_id=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a::#LISTNAME:[COLOR orange][B]Sporza - AQ (German)[/B][/COLOR]::LISTSOURCE:https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd|key_id=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91::#LISTNAME:[COLOR orange][B]Match! Football - AQ (Russian)[/B][/COLOR]::LISTSOURCE:https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd|key_id=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114::#LISTNAME:[COLOR orange][B]DAZN Spanish FHD[/B][/COLOR]::LISTSOURCE:https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8::#LISTNAME:[COLOR orange][B]Somoy TV BDIX[/B][/COLOR]::LISTSOURCE:https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8::#LISTNAME:[COLOR orange][B]Fast Server[/B][/COLOR]::LISTSOURCE:https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJZZ8dtXscr.m3u8?txSecret=5d49c4b2940bd2aad397e40bf4bfed71&txTime=6A31C238::#</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
+<fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1_2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]FOX.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]FOX.Adaptive[/B][/COLOR]</title>
 <link>https://nl-081-v1.vivocdn.xyz/1781403799/1933cf492ecc4905998ff41d45aaaeba/C47BcPJQfVx8PxG1pnI9h0ksCgZdMX67GPzyXsRaE7M/fox-usa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]BBC.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]BBC.1080p[/B][/COLOR]</title>
 <link>https://nl-081-v1.vivocdn.xyz/1781404148/627af90b53974f4c98f0668d71946731/858Wkkf09VCg3y_zQArY17273va6r7WJYf6jmgUpYNg/bbcone-uk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
@@ -145,18 +142,18 @@ LISTNAME:[COLOR orange][B]FS1[/B][/COLOR]::LISTSOURCE:https://cors-everywhere-wc
 LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|key_id=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003::#
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]TNT Sp0rts.Adaptive1[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52098</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52103</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -164,11 +161,11 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52100</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52104</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -176,11 +173,11 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52101</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52105</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>s
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -188,7 +185,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -200,7 +197,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 -->
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -212,7 +209,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
@@ -224,7 +221,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 </item>
 
 <item>
-<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Senegal[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
+<title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Iraq v Norway[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch6.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
