@@ -59,7 +59,7 @@
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
--->
+--><!--
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Iraq[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
@@ -139,7 +139,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Iraq[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -187,7 +187,7 @@ LISTNAME:[COLOR orange][B]TSN[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]France vs Iraq[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
