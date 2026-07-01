@@ -47,7 +47,7 @@
 
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Mexico vs Ecuador[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
@@ -61,7 +61,7 @@
 
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Mexico vs Ecuador[/B][/COLOR] [COLOR orange][B]Sport.1080p3[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
@@ -72,17 +72,17 @@
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Mexico vs Ecuador[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1_2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Mexico vs Ecuador[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fifa1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyfifa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
@@ -92,7 +92,7 @@
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52738/</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52767/</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -104,7 +104,7 @@
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52739/</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52768/</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -116,7 +116,7 @@
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52740/</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52769/</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>s
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
@@ -128,13 +128,13 @@
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/52641</page>
+<page>https://gooz.aapmains.net/new-stream-embed/52770</page>
 <referer>https://1stream.plus/</referer>
 </regex>
 <thumbnail>https://news.broadcastmediaafrica.com/wp-content/uploads/2026/06/fifa.png</thumbnail>
 <fanart>https://i.postimg.cc/VvL7GBHn/npr-brightspotcdn.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]WORLD[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Mexico vs Ecuador[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://1stream.plus/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36</link><regex>
