@@ -47,7 +47,7 @@
 
 <item>
 <title>[COLOR blue][B]COMMUNITY[/B][/COLOR] [COLOR red][B]SHIELD[/B][/COLOR]:[COLOR white][B]Arsenal vs Manchester City[/B][/COLOR] [COLOR orange][B]Sport.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-fa1||Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.pinimg.com/474x/c7/c4/d5/c7c4d5f4c0bfc727f7ca98dfedf9d695.jpg</thumbnail>
 <fanart>https://e0.365dm.com/21/06/2048x1152/skysports-community-shield_5403934.jpg?20210603120833</fanart>
 </item>
@@ -128,7 +128,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 -->
 <item>
 <title>[COLOR blue][B]COMMUNITY[/B][/COLOR] [COLOR red][B]SHIELD[/B][/COLOR]:[COLOR white][B]Arsenal vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/54741</page>
