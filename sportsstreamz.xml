@@ -3485,14 +3485,14 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 </item>
 -->
   4<item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Udinese vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Udinese vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse2|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cremonese vs Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.AQ1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Udinese vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-se2|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3511,14 +3511,14 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Cremonese vs Pisa[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Udinese vs Como[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>http://1stream.plus/serie-a/cremonese-pisa-live-stream/1097304</page>
+<page>https://gooz.aapmains.net/new-stream-embed/55024</page>
 <referer>hhttps://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
