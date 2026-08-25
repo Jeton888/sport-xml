@@ -69,7 +69,7 @@
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs Chelsea[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - FHD ⚽[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -152,14 +152,14 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Fulham vs Chelsea[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55163</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -323,11 +323,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Manchester City vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55106</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -339,7 +339,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49556</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -464,7 +464,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55105</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -557,11 +557,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Ipswich Town vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55014</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -573,7 +573,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49554</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -652,11 +652,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Wolves vs Fulham[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/premier-league/fulham-west-ham-united-live-stream/1092116</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/premier-league/fulham-west-ham-united-live-stream/1092116</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -721,11 +721,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Manchester United[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/premier-league/newcastle-united-manchester-united-live-stream/1092119</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/premier-league/newcastle-united-manchester-united-live-stream/1092119</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
@@ -947,10 +947,230 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
+-->
+   1<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Cardiff City vs Norwich City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-cardiffcity|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   1<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Cardiff City vs Norwich City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55175</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   2<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Doncaster Rovers vs Middlesbrough[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=55|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   3<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Southampton vs West Ham United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-southampton|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   3<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Southampton vs West Ham United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55177</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   4<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Southampton vs West Ham United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=32|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   5<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sheffield Wednesday vs Wolves[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddywolves|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   5<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sheffield Wednesday vs Wolves[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55192</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   6<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sheffield Wednesday vs Wolves[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddywolves|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   7<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Ipswich Town vs Leicester City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-leicester|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   7<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Ipswich Town vs Leicester City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55176</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   8<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Ipswich Town vs Leicester City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=69|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+   9<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Plymouth Argyle vs Coventry City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyplymouth|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  10<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Blackburn Rovers vs Sheffield United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=56|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]Sp0rts.1080p1[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Blackburn Rovers vs Sheffield United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55178</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  13<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Cambridge United vs Millwall[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=57|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  16<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Stoke City vs Hull City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=68|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  16<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Stoke City vs Hull City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55179</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  18<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Watford vs Peterborough United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=58|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  18<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Watford vs Peterborough United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55191</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  19<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Leeds United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=3|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  20<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Leeds United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55196</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  20<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Nottingham Forest vs Leeds United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=5|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  21<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Birmingham City vs Brentford[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=67|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  22<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Birmingham City vs Brentford[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55193</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+  22<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Birmingham City vs Brentford[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=67|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
@@ -1034,11 +1254,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/fa-cup/chelsea-manchester-city-live-stream/1315845</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
@@ -1050,7 +1270,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/50666</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
@@ -1062,7 +1282,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/50668</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
@@ -1127,11 +1347,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]FA[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Port Vale vs Sunderland[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/fa-cup/port-vale-sunderland-live-stream/1192960</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/fa-cup/port-vale-sunderland-live-stream/1192960</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://www.theboltonnews.co.uk/resources/images/6787606.jpg</thumbnail>
 <fanart>https://www.morecambefc.com/siteassets/image/global/competition-logos/fa-cup.jpeg</fanart>
@@ -1353,11 +1573,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <!--
 <item>
 <title>[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Aberdeen vs Celtic[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/premiership/aberdeen-celtic-live-stream/1166165</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/premiership/aberdeen-celtic-live-stream/1166165</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
@@ -1563,7 +1783,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://www.northern-scot.co.uk/_media/img/750x0/O3MB8CYEJ0Y6S0QIG3RJ.jpg</thumbnail>
 <fanart>https://sfa-mainsite.azurewebsites.net/media/7673/scottish-cup-trophy.jpg</fanart>
 </item>
--->
+
 <item>
 <title>   </title>
 <link>.</link>
@@ -1601,7 +1821,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Osasuna vs Levante[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - FHD ⚽ [/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddylaliga1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -1722,14 +1942,14 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Osasuna vs Levante[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/54954&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55161</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1843,11 +2063,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Girona[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/girona-fc-atletico-madrid-live-stream/1097668</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1890,11 +2110,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Girona vs Real Sociedad[/B][/COLOR] [COLOR orange][B]HD SERVER.[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/girona-fc-real-sociedad-live-stream/1097419</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1952,11 +2172,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Rayo Vallecano vs Villarreal[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/villarreal-rayo-vallecano-live-stream/1097673</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1978,11 +2198,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Osasuna vs Espanyol[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/osasuna-espanyol-live-stream/1097672</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -2004,11 +2224,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Elche vs Getafe[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/getafe-elche-live-stream/1097670</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -2030,11 +2250,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Levante vs Mallorca[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/levante-ud-mallorca-live-stream/1097671</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -2056,11 +2276,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Athletic Club vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/athletic-club-celta-vigo-live-stream/1097667</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -2082,11 +2302,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Real Oviedo vs Alavés[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/laliga/deportivo-alaves-real-oviedo-live-stream/1097674</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -2101,11 +2321,11 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR gold][B]COPA[/COLOR] [COLOR red][B]DEL[/B][/COLOR] [COLOR pink][B]REY[/B][/COLOR]:[COLOR white][B]Atlético Madrid vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/copa-del-rey/atletico-madrid-real-sociedad-live-stream/1194120</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/copa-del-rey/atletico-madrid-real-sociedad-live-stream/1194120</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
@@ -2444,7 +2664,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/54993</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2523,7 +2743,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49489</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2689,7 +2909,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/borussia-dortmund-sv-werder-bremen-live-stream/1097527</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2810,7 +3030,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/rb-leipzig-sc-freiburg-live-stream/1097526</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2822,7 +3042,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49544</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2902,7 +3122,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/bayer-04-leverkusen-hamburger-sv-live-stream/1097521</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2941,8 +3161,8 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/bundesliga/hamburger-sv-sv-werder-bremen-live-stream/1095710</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/bundesliga/hamburger-sv-sv-werder-bremen-live-stream/1095710</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -2973,7 +3193,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/vfb-stuttgart-eintracht-frankfurt-live-stream/1097523</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3013,7 +3233,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/tsg-hoffenheim-borussia-mgladbach-live-stream/1097522</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3044,7 +3264,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/1-fc-heidenheim-1-fsv-mainz-05-live-stream/1097519</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3063,7 +3283,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/fc-augsburg-1-fc-union-berlin-live-stream/1097520</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3082,7 +3302,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/fc-st-pauli-vfl-wolfsburg-live-stream/1097525</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
@@ -3399,7 +3619,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55138</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3417,8 +3637,8 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/new-stream-embed/55036</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/new-stream-embed/55036</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3575,7 +3795,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55110</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3813,11 +4033,11 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <!--
 <item>
 <title>[COLOR green][B]COPPA[/B][/COLOR] [COLOR red][B]ITALIA[/B][/COLOR]:[COLOR white][B]Lazio vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/coppa-italia/lazio-atalanta-live-stream/1194503</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/coppa-italia/lazio-atalanta-live-stream/1194503</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
 <fanart>https://www.inter.it/media/downloads/2021/2021_11_17_10_19_26Tabellone_CoppaItalia_ottavi.jpg</fanart>
@@ -4117,11 +4337,11 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Stade Rennais vs PSG[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/55101</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
@@ -4872,7 +5092,7 @@ xml
 <thumbnail>https://i.postimg.cc/T1frZgBq/image.png</thumbnail>
 <fanart>https://i.postimg.cc/T1frZgBq/image.png</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -4886,124 +5106,124 @@ xml
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p3[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-uefa_psg|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive3[/B][/COLOR]</title>
 <link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>gbplayer
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.1080p[/B][/COLOR]</title>
 <link>https://wnt-geting-002.transmisjana.digital/52f4d0221c11473f80b11de1d952f8b4.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36</link>gbplayer
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]DAZN.Adaptive1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]DAZN.Adaptive1[/B][/COLOR]</title>
 <link>|key_id=:</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive4[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]TNT Sp0rt.Adaptive4[/B][/COLOR]</title>
 <link>https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|key_id=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875</link>gbplayer
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]MNG_PSN1.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]MNG_PSN1.Adaptive[/B][/COLOR]</title>
 <link>https://cdn3.skygo.mn/live/disk1/SPSPrime/STRM-CH2-1/SPSPrime.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36&key_id=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]ZiggoSp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]ZiggoSp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|key_id=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523</link>techlyhub
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]C0sm0te Sp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]C0sm0te Sp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://bbb.exoadash.com/TVD2700/index.mpd</link>gbplayer
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1_1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/54520</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
-</regex>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/54529</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/new-stream-embed/55195</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/54529</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
 <link>https://live5.msrktz.app/live/97312754.m3u8|Referer=https://www.ronadosso.fun/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
@@ -5015,7 +5235,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
@@ -5027,7 +5247,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
 <name>get_sxstream</name>
 <expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
@@ -5037,9 +5257,19 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
+-->
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Bodø/Glimt vs NEC Nijmegen[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/55180</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
 <!--
-
-
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Simulcast[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -5148,11 +5378,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/uefa-champions-league-knockout-stage/paris-saint-germain-arsenal-live-stream/1325927</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5160,11 +5390,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/51060</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5172,11 +5402,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/51360</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5184,11 +5414,11 @@ xml
 <!--
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Arsenal[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/50164</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5295,11 +5525,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/uefa-champions-league-knockout-stage/sporting-cp-arsenal-live-stream/1240890</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/uefa-champions-league-knockout-stage/sporting-cp-arsenal-live-stream/1240890</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5307,11 +5537,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49005</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5319,11 +5549,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
 <page>https://gooz.aapmains.net/new-stream-embed/49006</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
@@ -5448,11 +5678,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Freiburg vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/uefa-europa-league-knockout-stage/sc-freiburg-aston-villa-live-stream/1316007</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
@@ -5545,11 +5775,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]EL[/B][/COLOR]:[COLOR white][B]Braga vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/uefa-europa-league-knockout-stage/sporting-braga-sc-freiburg-live-stream/1303118</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
@@ -5658,11 +5888,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/rayo-vallecano-crystal-palace-live-stream/1325886</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
@@ -5727,11 +5957,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]Strasbourg vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sport.1.[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
 <page>http://1stream.plus/uefa-europa-conference-league-knockout-stage/rayo-vallecano-rc-strasbourg-live-stream/1303120</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
@@ -5772,11 +6002,11 @@ xml
 
 <item>
 <title>[COLOR blue][B]ECL[/B][/COLOR]:[COLOR white][B]AEK Athens vs Rayo Vallecano[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=hhttps://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>hhttps://gooz.aapmains.net/uefa-europa-conference-league-knockout-stage/aek-athens-rayo-vallecano-live-stream/1240932</page>
-<referer>hhttps://gooz.aapmains.net/</referer>
+<page>https://gooz.aapmains.net/uefa-europa-conference-league-knockout-stage/aek-athens-rayo-vallecano-live-stream/1240932</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
@@ -6401,3 +6631,4 @@ xml
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
+-->
