@@ -5214,14 +5214,22 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
-<link>https://live5.msrktz.app/live/97312754.m3u8|Referer=https://www.ronadosso.fun/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
+<link>https://live.ftlcbx.com/live/73394724_90fe2b9993190e90601c994c77ec9c78.m3u8?auth_key=1787698579-0-0-912a47e0617aac255309c775ba8633af|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p2[/B][/COLOR]</title>
+<link>http://162.251.160.53:8089/10/index.m3u8?token=22246672c61128ace03c9617ca426c499f226c6ffd1be98ec1b54b003374beb5-1787688995-1787688918|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<!--
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]LASK vs Celtic[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
