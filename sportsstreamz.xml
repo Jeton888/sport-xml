@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -975,7 +975,110 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
+-->
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Lincoln City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-efl1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Lincoln City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=55|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Lincoln City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56066</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex><thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Middlesbrough[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-efl2|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Middlesbrough[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=53|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Crystal Palace vs Middlesbrough[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56067</page>
+<referer>https://gooz.aapmains.net/</referer>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Hull City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-efl3|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Hull City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=54|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Hull City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56058</page>
+<referer>https://gooz.aapmains.net/</referer>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Leyton Orient vs Bradford City[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=56|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Millwall vs Newcastle United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=38|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Millwall vs Newcastle United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=38|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Millwall vs Newcastle United[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/viki.js?id=38|Referer=https://forgemindly.com/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+<!--
  
    1<item>
 <title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Luton Town[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
@@ -5119,7 +5222,7 @@ xml
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Club Brugge vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -5161,7 +5264,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Club Brugge vs Aston Villa[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]TNT Sports 1[/B][/COLOR]::LISTSOURCE::https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|key_id=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749::#</link>
@@ -5215,7 +5318,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Club Brugge vs Aston Villa[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -5297,7 +5400,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]AEK Athens vs LASK Linz[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -5410,7 +5513,7 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]AEK Athens vs LASK Linz[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -5501,69 +5604,34 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+-->
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl2|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|key_id=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]TUDN.[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/as34khfhws/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd|key_id=22623713b4de38982ef2e97da5679a92:4c10eefd607703e17b5d0a756227c16c</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]BeIN English - AQ[/B][/COLOR]</title>
-<link>https://a171live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/zmt594oedm/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd|key_id=906598ffdf64ee6229ac985666cc6dba:d2e8ca676c843293a7549f7847ed5a07</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]PSN SPORTS - AQ.Adaptive[/B][/COLOR]</title>
-<link>https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd|key_id=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d"</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]PREMIER - AQ.[/B][/COLOR]</title>
-<link>https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]TNT BR AQ.[/B][/COLOR]</title>
-<link>https://abgqhfdaaaaaaaammgbgkps323cuq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|key_id=36e8cbbdffc40708f01095591b7c53a6:078d543be20fe4769221f5afb3ecf195</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 3[/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/uefa-champions-league-knockout-stage/sporting-cp-arsenal-live-stream/1240890</page>
+<page>https://gooz.aapmains.net/new-stream-embed/56060</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
@@ -5571,7 +5639,56 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v2in2hoej4/out/v1/37d71ca48b334490b611efeb511232d2/cenc.mpd|key_id=cef28547ad3df64d42ddd1d5fc1b311f:93dcad1290c5eb6179f4ed4106896ce9</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]TUDN.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/as34khfhws/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd|key_id=22623713b4de38982ef2e97da5679a92:4c10eefd607703e17b5d0a756227c16c</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]BeIN English - AQ[/B][/COLOR]</title>
+<link>https://a171live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/zmt594oedm/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd|key_id=906598ffdf64ee6229ac985666cc6dba:d2e8ca676c843293a7549f7847ed5a07</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]PSN SPORTS - AQ.Adaptive[/B][/COLOR]</title>
+<link>https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd|key_id=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d"</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]PREMIER - AQ.[/B][/COLOR]</title>
+<link>https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|key_id=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]TNT BR AQ.[/B][/COLOR]</title>
+<link>https://abgqhfdaaaaaaaammgbgkps323cuq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|key_id=36e8cbbdffc40708f01095591b7c53a6:078d543be20fe4769221f5afb3ecf195</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -5583,7 +5700,7 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
 <expres>source = .*[",'](.*playlist.*?)[",']</expres>
@@ -5595,7 +5712,7 @@ xml
 </item>
 <!--
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.Adaptive[/B][/COLOR]</title>
 <link>https://41.hls-syria.live/live/bein1|Referer=https://kooraxx.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0</link><regex>
     <name>get_sxstream</name>
     <expres>&lt;source\s+src=['"]([^'"]+)['"]\s+type=['"]application/x-mpegURL['"]</expres>
@@ -5613,48 +5730,132 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Internazionale[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p[/B][/COLOR]</title>
 <link>https://live5.msrktz.app/live/97312754.m3u8|Referer=https://www.ronadosso.fun/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://atletifan.com/atm/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]FC Porto vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl2|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]FC Porto vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl2|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]FC Porto vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 3[/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]FC Porto vs Manchester City[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
-<expres>const\s+hexEncoded\s*=\s*["']([A-Fa-f0-9]+)["']</expres>
-<page>https://maslaz.com//?kiddy=2</page>
-<referer>https://new.sportsfeed24.to/</referer>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56061</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]FC Porto vs Manchester City[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lxm56huryl/out/v1/750e5b33eda7484ca92454dae7ffe4b7/cenc.mpd|key_id=e706827bc0034a2d1554d6301f7f38e7:68bb0977300cee064f5a77cac7ec2a3a</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Borussia Dortmund vs Villarreal[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl3|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Borussia Dortmund vs Villarreal[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl3|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Borussia Dortmund vs Villarreal[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 3[/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Borussia Dortmund vs Villarreal[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
-<expres>source\s*=\s*["'](https?://[^"']+)["']</expres>
-<page>https://soccerball.st/totalsporteks/tracker2/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56062</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Arsenal vs Sporting CP[/B][/COLOR] [COLOR orange][B]Sp0rt.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Borussia Dortmund vs Villarreal[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgy1l0mfam/out/v1/1114f3c1bedf4fdfbc363357b61b2fb6/cenc.mpd|key_id=b777dd0e55bb70c26b77364b6943b8be:93c3bead9249d31ab4cfe318f9500f2f</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Lille vs Real Betis[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 1[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl4|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Lille vs Real Betis[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 2[/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl4|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Lille vs Real Betis[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 3[/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Lille vs Real Betis[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
 <name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch1.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56068</page>
+<referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Lille vs Real Betis[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/57vlq2jkze/out/v1/7054a4d139cf40848402fdad86a19ca6/cenc.mpd|key_id=e7db1868e94e3ff3697098ebdb57bb03:0e9e368a4c072305d30ba17cada90d6b</link>
+<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
+<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+</item>
+<!--
 <item>
 <title>                           </title>
 <link>.</link>
