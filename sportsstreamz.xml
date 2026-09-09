@@ -5480,10 +5480,10 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Napoli vs Arsenal[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v2in2hoej4/out/v1/37d71ca48b334490b611efeb511232d2/cenc.mpd|key_id=cef28547ad3df64d42ddd1d5fc1b311f:93dcad1290c5eb6179f4ed4106896ce9</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Napoli vs Arsenal[/B][/COLOR] [COLOR orange][B]SPORTS - AQ.[/B][/COLOR]</title>
+<link>LISTNAME:[COLOR orange][B]PARAMOUNT[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzoyb9fllc/out/v1/8926eb65b8f64effb889daad38114562/cenc.mpd|key_id=cd9adfa77cd7ef0ee32b67c2511b4132:e2b31e51ab954d894280476d73f75ed6::</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -5618,10 +5618,10 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lxm56huryl/out/v1/750e5b33eda7484ca92454dae7ffe4b7/cenc.mpd|key_id=e706827bc0034a2d1554d6301f7f38e7:68bb0977300cee064f5a77cac7ec2a3a</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|key_id=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -5665,10 +5665,10 @@ xml
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Slovan Bratislava[/B][/COLOR] [COLOR orange][B]TNT SPORTS - AQ.[/B][/COLOR]</title>
-<link>https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgy1l0mfam/out/v1/1114f3c1bedf4fdfbc363357b61b2fb6/cenc.mpd|key_id=b777dd0e55bb70c26b77364b6943b8be:93c3bead9249d31ab4cfe318f9500f2f</link>
+<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]PSG vs Slovan Bratislava[/B][/COLOR] [COLOR orange][B]SPORTS - AQ.[/B][/COLOR]</title>
+<link>https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|key_id=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -5697,13 +5697,6 @@ xml
 <item>
 <title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Sporting CP vs Galatasaray[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 4[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
-<thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CL[/B][/COLOR]:[COLOR white][B]Sporting CP vs Galatasaray[/B][/COLOR] [COLOR orange][B]Sp0rt.Server 5[/B][/COLOR]</title>
-<link>http://193.47.62.41/hls/tmmmqqqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/</link>
 <thumbnail>https://api.ppv.to/assets/thumb/thumb/-thumbnail.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
