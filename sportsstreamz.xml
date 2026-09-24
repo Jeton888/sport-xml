@@ -1551,7 +1551,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://www.northern-scot.co.uk/_media/img/750x0/O3MB8CYEJ0Y6S0QIG3RJ.jpg</thumbnail>
 <fanart>https://sfa-mainsite.azurewebsites.net/media/7673/scottish-cup-trophy.jpg</fanart>
 </item>
--->
+
 <item>
 <title>   </title>
 <link>.</link>
@@ -1596,7 +1596,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Real Sociedad[/B][/COLOR] [COLOR orange][B] ⚽ SERVER 1 - ⚽ [/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddylaliga1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -1631,7 +1631,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Adaptive[/B][/COLOR]</title>
 <link>LISTNAME:[COLOR orange][B]LaLigaTV.Adaptive[/B][/COLOR]::LISTSOURCE:https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|key_id=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8::#LISTNAME:[COLOR orange][B]Premier Sp0rts[/B][/COLOR]::LISTSOURCE:https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|key_id=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f::</link>
@@ -1645,7 +1645,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/54954&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -2438,7 +2438,7 @@ x<!--
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -2473,7 +2473,7 @@ x<!--
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Paderborn 07 vs TSG Hoffenheim[/B] [/COLOR][COLOR orange][B]ESPN+.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -3201,7 +3201,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/G5ZSIYs.jpg</thumbnail>
 <fanart>https://blog.cpdfootball.de/wp-content/uploads/2019/05/dfb-pokal-1280x720.jpg</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -3248,7 +3248,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AC Milan vs Lecce[/B][/COLOR] [COLOR orange][B]Sports.SERVER 1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -3269,14 +3269,14 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AC Milan vs Lecce[/B][/COLOR] [COLOR orange][B]Sports.SERVER 3[/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-<!---->
+<!--
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AC Milan vs Lecce[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -3971,7 +3971,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <thumbnail>https://i.imgur.com/2mwD3y6.jpg</thumbnail>
 <fanart>https://www.inter.it/media/downloads/2021/2021_11_17_10_19_26Tabellone_CoppaItalia_ottavi.jpg</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
@@ -4006,7 +4006,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs PSG[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyligue1_1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
@@ -4119,7 +4119,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs PSG[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -4884,7 +4884,7 @@ xml
 <thumbnail>https://i.postimg.cc/T1frZgBq/image.png</thumbnail>
 <fanart>https://i.postimg.cc/T1frZgBq/image.png</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -6038,605 +6038,22 @@ v
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://maslaz.com//?kiddy=1</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://soccerball.st/totalsporteks/tracker1/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t6.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/4.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Spain[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/4.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://maslaz.com//?kiddy=2</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://soccerball.st/totalsporteks/tracker3/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t7.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/7.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Croatia vs France[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/7.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://maslaz.com//?kiddy=4</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://soccerball.st/totalsporteks/tracker2/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t4.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/4.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Germany[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/4.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://maslaz.com//?kiddy=3</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://soccerball.st/totalsporteks/tracker4/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t5.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/5.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/5.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.1[/B][/COLOR]</title>
-<link>plugin://plugin.video.hexdecode/play?hex=$doregex[get_sxstream]|Referer=https://maslaz.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>var _hexData = .*[",'](.*6874.*?)[",']</expres>
-<page>https://maslaz.com//?kiddy=5</page>
-<referer>https://new.sportsfeed24.to/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.3[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://soccerball.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
-<name>get_sxstream</name>
-<expres>source = .*[",'](.*sbs.*?)[",']</expres>
-<page>https://soccerball.st/totalsporteks/tracker5/</page>
-<referer>https://new.sportsfeed24.to/</referer>games
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t31.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/31.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ukraine vs Belgium[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/31.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Greece vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Greece vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t30.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Greece vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/30.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Greece vs Scotland[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/30.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Ireland Republic[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Ireland Republic[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t28.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Ireland Republic[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/28.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Ireland Republic[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/28.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Austria vs Serbia[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Austria vs Serbia[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t32.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Austria vs Serbia[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/32.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Austria vs Serbia[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/32.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Kosovo vs Iceland[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Kosovo vs Iceland[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t29.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Kosovo vs Iceland[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/29.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Kosovo vs Iceland[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/29.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Slovenia[/B][/COLOR] [COLOR orange][B]Sp0rts.2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streambtw.com/iframe/ch1.php</link><regex>
-<name>get_sxstream</name>
-<expres>encoded = .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://streambtw.com/iframe/ch2.php</page>
-<referer>https://streambtw.com/iframe/ch1.php</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Slovenia[/B][/COLOR] [COLOR orange][B]Sp0rts.4[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://foreverquote.xyz/brkt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://foreverquote.xyz/brkt/t27.php</page>
-<referer>https://foreverquote.xyz/brkt/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Slovenia[/B][/COLOR] [COLOR orange][B]Sp0rts.5[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://supertipzz.online/tip/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://supertipzz.online/tip/27.php</page>
-<referer>https://supertipzz.online/tip/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Slovenia[/B][/COLOR] [COLOR orange][B]Sp0rts.6[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://live.reddit-soccerstreamss.online/reddit/3.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link><regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://live.reddit-soccerstreamss.online/reddit/27.php</page>
-<referer>https://live.reddit-soccerstreamss.online/reddit/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
 -->
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Malta[/B][/COLOR] [COLOR orange][B]Sp0rt.SERVER 1[/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnations1|Referer=https://embedindia.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Malta[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/56993</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
