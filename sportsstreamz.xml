@@ -6038,7 +6038,15 @@ v
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+-->
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Click Here[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>plugin://plugin.video.Rising.Tides/?url=id%3Anations-league-league&mode=70</externallink>
+<thumbnail>https://png.pngtree.com/png-clipart/20190h520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+<!--
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs Belgium[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link><regex>
@@ -6050,7 +6058,7 @@ v
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Denmark vs Portugal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1[/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-nations1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36</link>
@@ -6303,7 +6311,7 @@ v
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Israel vs Kosovo[/B][/COLOR] [COLOR orange][B]Sport.1080p[/B][/COLOR]</title>
 <link>damitv://Israel</link>
@@ -6317,7 +6325,7 @@ v
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Israel vs Kosovo[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
@@ -6330,3 +6338,4 @@ v
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
+-->
