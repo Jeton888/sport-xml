@@ -29,7 +29,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
 <title>                </title>
 <link>http://google.com</link>
@@ -78,47 +78,7 @@
 <fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
 </item>
 -->
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
 
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fpl%2F2026-10-17%2Fnew-avl&mode=14</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyepl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/gJLs9N8T/image.png</thumbnail>
-<fanart>https://i.postimg.cc/4dc62nR0/image.png</fanart>
-</item>
 <!--
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Arsenal vs Leeds United[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - ⚽[/B][/COLOR]</title>
@@ -1397,43 +1357,49 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 -->
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Athletic Club[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Flaliga%2F2026-10-17%2Fbet-bar&mode=14</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]</title>
+<link>damitv://Valencia</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Athletic Club[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Flaliga%2F2026-10-17%2Fval-ath&mode=14</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Athletic Club[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58167</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - FHD ⚽ [FHD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-laliga2|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Athletic Club[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Real Betis vs Barcelona[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-waslaliga2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]Valencia vs Athletic Club[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - FHD ⚽ [FHD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-laliga1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -2259,7 +2225,7 @@ x<!--
 <thumbnail>https://www.unionrayo.es/wp-content/uploads/2021/01/copa-del-rey.jpg</thumbnail>
 <fanart>https://i2.wp.com/sportsfinding.com/wp-content/uploads/2020/01/15798535722278.jpg?fit=600%2C400&ssl=1&resize=1280%2C720</fanart>
 </item>
--->
+<!--
 <item>
 <title>                           </title>
 <link>.</link>
@@ -2282,33 +2248,7 @@ x<!--
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
 -->
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs RB Leipzig[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fbundesliga%2F2026-10-17%2Fbay-rbl&mode=14</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasbun1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern Munich vs RB Leipzig[/B][/COLOR][COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-bun1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
-<fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
-</item>
 <!--
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]SC Paderborn 07 vs TSG Hoffenheim[/B] [/COLOR][COLOR orange][B]ENGLISH.Adaptive1[/B][/COLOR]</title>
@@ -3067,43 +3007,63 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 -->
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-17%2Fbol-int&mode=14</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]</title>
+<link>damitv://AS+Roma</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-17%2Froma-gen&mode=14</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58166</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - AQ ⚽[/B][/COLOR]</title>
+<link>https://techlyhub.win/bein2.php?p=embed|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - FHD ⚽ [FHD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - FHD ⚽ [FHD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-se1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - AQ ⚽[/B][/COLOR]</title>
-<link>https://techlyhub.win/bein2.php?p=embed|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Genoa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -3813,44 +3773,60 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 -->
+<!-- ═══════════════ Lille vs Brest ═══════════════ -->
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs PSG[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyligue1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
-<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]</title>
-<link>damitv://Strasbourg</link>
-<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
-<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs PSG[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fligue1%2F2026-10-17%2Fstr-psg&mode=14</link>
-<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
-<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs PSG[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Brest[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs PSG[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ligue1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]</title>
+<link>damitv://Lille</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs PSG[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - FHD ⚽ [FHD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Brest[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fligue1%2F2026-10-17%2Flill-bre&mode=14</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lille vs Brest[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasligue1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<!-- ═══════════════ Troyes vs Lens ═══════════════ -->
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Troyes vs Lens[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasligue2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]</title>
+<link>damitv://Troyes</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Troyes vs Lens[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fligue1%2F2026-10-17%2Ftry-rcl&mode=14</link>
+<thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
+<fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Troyes vs Lens[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasligue2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
