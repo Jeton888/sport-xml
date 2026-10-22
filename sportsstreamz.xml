@@ -5490,35 +5490,43 @@ v
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!-- ═══════════════ Juventus vs Stade Rennais ═══════════════ -->
+<!-- ═══════════════ The Golazo Show ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]The Golazo Show[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fthe-golazo-show-30803&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ AFC Bournemouth vs AC Milan ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs AC Milan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-tnt1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fjuv-ren&mode=14</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs AC Milan[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fbou-mil&mode=14</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Juventus</link>
+<link>damitv://AFC+Bournemouth</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bournemouth vs AC Milan[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58404</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58406</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
@@ -5526,246 +5534,335 @@ v
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-uel_juv|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs AC Milan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-uel_juv|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs AC Milan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-tnt1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Juventus vs Stade Rennais[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs AC Milan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!-- ═══════════════ Lech Poznan vs Sunderland ═══════════════ -->
+<!-- ═══════════════ Besiktas vs Crystal Palace ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lech Poznan vs Sunderland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl2|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lech Poznan vs Sunderland[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Flech-sun&mode=14</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Lech+Poznan</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lech Poznan vs Sunderland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Besiktas vs Crystal Palace[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lech Poznan vs Sunderland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Besiktas vs Crystal Palace[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fbes-cry&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Besiktas</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Beşiktaş JK vs Crystal Palace[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58410</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Besiktas vs Crystal Palace[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!-- ═══════════════ SK Sturm Graz vs Marseille ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]SK Sturm Graz vs Marseille[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl3|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Besiktas vs Crystal Palace[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
+<!-- ═══════════════ Omonia Nicosia vs Benfica ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]SK Sturm Graz vs Marseille[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fstg-olm&mode=14</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://SK+Sturm+Graz</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]SK Sturm Graz vs Marseille[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Omonia Nicosia vs Benfica[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]SK Sturm Graz vs Marseille[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Omonia Nicosia vs Benfica[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fomon-slb&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Omonia+Nicosia</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Omonia Nicosia vs Benfica[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58409</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Omonia Nicosia vs Benfica[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!-- ═══════════════ OFI Crete vs Bayer Leverkusen ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]OFI Crete vs Bayer Leverkusen[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-ucl4|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Omonia Nicosia vs Benfica[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
+<!-- ═══════════════ Lillestrom vs Real Sociedad ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]OFI Crete vs Bayer Leverkusen[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fofi-b04&mode=14</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://OFI+Crete</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]OFI Crete vs Bayer Leverkusen[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lillestrom vs Real Sociedad[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]OFI Crete vs Bayer Leverkusen[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lillestrom vs Real Sociedad[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Flsk-rso&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Lillestrom</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lillestrøm SK vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58411</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lillestrom vs Real Sociedad[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasucl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
-<!-- ═══════════════ Ferencvaros vs Torreense ═══════════════ -->
+<!-- ═══════════════ Celtic vs Celta Vigo ═══════════════ -->
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ferencvaros vs Torreense[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=5fd1a2846b4cb97f|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Celtic vs Celta Vigo[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.41/hls/FAFAFAFAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ferencvaros vs Torreense[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Ffer-tor&mode=14</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Ferencvaros</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ferencvaros vs Torreense[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=5fd1a2846b4cb97f|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<!-- ═══════════════ Dinamo Zagreb vs NEC Nijmegen ═══════════════ -->
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Dinamo Zagreb vs NEC Nijmegen[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=67d79e6832c2a5c4|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Dinamo Zagreb vs NEC Nijmegen[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fdzg-nec&mode=14</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Celtic vs Celta Vigo[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fcel-cel&mode=14</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Dinamo+Zagreb</link>
+<link>damitv://Celtic</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Dinamo Zagreb vs NEC Nijmegen[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=67d79e6832c2a5c4|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<!-- ═══════════════ Ararat-Armenia vs AZ Alkmaar ═══════════════ -->
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ararat-Armenia vs AZ Alkmaar[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=b15b454e6c84ab05|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ararat-Armenia vs AZ Alkmaar[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fara-az&mode=14</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Celtic vs Celta Vigo[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58412</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Ararat-Armenia</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Celtic vs Celta Vigo[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.41/hls/FAFAFAFAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ TSG Hoffenheim vs Lyon ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Lyon[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.50/hls/V111AAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ararat-Armenia vs AZ Alkmaar[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=b15b454e6c84ab05|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<!-- ═══════════════ Union St.-Gilloise vs Hapoel Beer ═══════════════ -->
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Union St.-Gilloise vs Hapoel Beer[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=ea311b170658bddd|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
-<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Union St.-Gilloise vs Hapoel Be'er[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fusg-hbe&mode=14</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Lyon[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Ftsg-lyon&mode=14</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Union+St.-Gilloise</link>
+<link>damitv://TSG+Hoffenheim</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Union St.-Gilloise vs Hapoel Beer[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=ea311b170658bddd|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]TSG Hoffenheim vs Lyon[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.50/hls/V111AAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ Olympiacos vs Sparta Prague ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Olympiacos vs Sparta Prague[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.59/hls/FAFAFA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Olympiacos vs Sparta Prague[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Foly-spp&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Olympiacos</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Olympiacos vs Sparta Prague[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.59/hls/FAFAFA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ NK Celje vs RB Salzburg ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]NK Celje vs RB Salzburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.55/hls/D111AAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]NK Celje vs RB Salzburg[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fnkc-slz&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://NK+Celje</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]NK Celje vs RB Salzburg[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.55/hls/D111AAA.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ Viktoria Plzen vs Levski Sofia ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Viktoria Plzen vs Levski Sofia[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fplz-lev&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Viktoria+Plzen</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<!-- ═══════════════ Jagiellonia Bialystok vs Anderlecht ═══════════════ -->
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jagiellonia Bialystok vs Anderlecht[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.50/hls/V111A.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jagiellonia Bialystok vs Anderlecht[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuel%2F2026-10-22%2Fjag-and&mode=14</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Jagiellonia+Bialystok</link>
+<thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
+<fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]EUROPA[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jagiellonia Bialystok vs Anderlecht[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>http://193.47.62.50/hls/V111A.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.postimg.cc/m2jG61LN/UEL-Logo-Active-1600x.png</thumbnail>
 <fanart>https://i.postimg.cc/RV70C0MG/previews-uefa-europa-league-final-2025.jpg</fanart>
 </item>
@@ -5965,174 +6062,148 @@ v
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
-<!-- ═══════════════ Jablonec vs Brighton & Hove Albion ═══════════════ -->
+<!-- ═══════════════ AGF vs Egnatia ═══════════════ -->
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jablonec vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-con1|Referer=https://embedindia.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jablonec vs Brighton & Hove Albion[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fjabl-bha&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AGF vs Egnatia[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fagf-egn&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Jablonec</link>
+<link>damitv://AGF</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<!-- ═══════════════ Ajax Amsterdam vs Atalanta ═══════════════ -->
+<item>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Ajax Amsterdam vs Atalanta[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Faja-ata&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]FK Jablonec vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Ajax+Amsterdam</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AFC Ajax vs Atalanta[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58405</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58408</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
+<!-- ═══════════════ AS Monaco vs SC Freiburg ═══════════════ -->
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jablonec vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wascon1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Jablonec vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=c1d27ab4c371383d|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<!-- ═══════════════ Getafe vs FC Lugano ═══════════════ -->
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Getafe vs FC Lugano[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=f868df7202d352f5|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Getafe vs FC Lugano[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fget-lug&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AS Monaco vs SC Freiburg[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fmon-scf&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Getafe</link>
+<link>damitv://AS+Monaco</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Getafe vs FC Lugano[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=f868df7202d352f5|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]AS Monaco vs SC Freiburg[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/58407</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
-<!-- ═══════════════ Red Star Belgrade vs F.C. København ═══════════════ -->
+<!-- ═══════════════ Borac Banja Luka vs KuPS Kuopio ═══════════════ -->
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Red Star Belgrade vs F.C. København[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=dd4a6dd826c57309|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Red Star Belgrade vs F.C. København[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Frsb-kbh&mode=14</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Red+Star+Belgrade</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Red Star Belgrade vs F.C. København[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=dd4a6dd826c57309|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<!-- ═══════════════ Trabzonspor vs Heart of Midlothian ═══════════════ -->
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Trabzonspor vs Heart of Midlothian[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=59e21838a4c3d8bc|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Trabzonspor vs Heart of Midlothian[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Ftrab-hom&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Borac Banja Luka vs KuPS Kuopio[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fbbl-kups&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
 <title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
-<link>damitv://Trabzonspor</link>
+<link>damitv://Borac+Banja+Luka</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<!-- ═══════════════ Braga vs KAA Gent ═══════════════ -->
+<item>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Braga vs KAA Gent[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fscb-gent&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Trabzonspor vs Heart of Midlothian[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/viki_hokey.js?id=59e21838a4c3d8bc|Referer=https://matchli.st/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Braga</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
-<!-- ═══════════════ Additional taifood-only matches ═══════════════ -->
+<!-- ═══════════════ FC Midtjylland vs Sint-Truidense ═══════════════ -->
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]FC Nordsjælland vs CSKA Sofia[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Ffcn-cska&mode=14</link>
-<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
-<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
-</item>
-
-<item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Iberia 1999 vs Mjällby AIF[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fibe-mja&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]FC Midtjylland vs Sint-Truidense[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fmid-stvv&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Inter D'Escaldes vs CSU Craiova[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fide-ucra&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://FC+Midtjylland</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<!-- ═══════════════ FC Thun vs Hajduk Split ═══════════════ -->
+<item>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]FC Thun vs Hajduk Split[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fthun-haj&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Kauno Zalgiris vs SK Brann[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fzal-skbr&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://FC+Thun</link>
+<thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
+<fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
+</item>
+
+<!-- ═══════════════ Lincoln Red Imps vs FC Twente ═══════════════ -->
+<item>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Lincoln Red Imps vs FC Twente[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Flri-twe&mode=14</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
 
 <item>
-<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Pafos vs Riga FC[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuecl%2F2026-10-22%2Fpaf-rig&mode=14</link>
+<title>[COLOR orange][B]CONFERENCE[/B][/COLOR] [COLOR blue][B]LEAGUE[/B][/COLOR]</title>
+<link>damitv://Lincoln+Red+Imps</link>
 <thumbnail>https://i.postimg.cc/RZy96PqC/image.png</thumbnail>
 <fanart>https://www.gibraltarfa.com/uploads/UEFA/Key%20Views%20UECL.png</fanart>
 </item>
