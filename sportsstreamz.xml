@@ -2804,67 +2804,7 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 -->
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
 
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-25%2Fint-fio&mode=14</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]</title>
-<link>streamed://Inter</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Inter vs Fiorentina[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58611</page>
-<referer>https://gooz.aapmains.net/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddy-pc-se1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Internazionale vs Fiorentina[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
-<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
-<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
 <!--
 <item>
 <title>[COLOR red][B]Serie[/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AC Milan vs Lecce[/B][/COLOR] [COLOR orange][B]Sports.1080p[/B][/COLOR]</title>
