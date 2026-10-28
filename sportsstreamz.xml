@@ -539,61 +539,33 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 -->
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Bradford City vs Peterborough United[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>http://193.47.62.55/hls/VTVTVT.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
-<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
-<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Bradford City vs Peterborough United[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-27%2Fbrd-pet&mode=14</link>
-<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
-<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]</title>
-<link>streamed://Bradford+City</link>
-<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
-<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Bradford City vs Peterborough United[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>http://193.47.62.55/hls/VTVTVT.m3u8|Origin=http://www.fawanews.sc/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
-<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
-<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Manchester City vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-27%2Ffle-ars&mode=14</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Manchester City vs Brighton & Hove Albion[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-28%2Fmci-bha&mode=14</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]</title>
-<link>streamed://Fleetwood+Town</link>
+<link>damitv://manchester+city</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Manchester City vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58740</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58775</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
@@ -601,29 +573,102 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Manchester City vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Manchester City vs Brighton & Hove Albion[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://techlyhub.win/aws/embed.php?url=main_new-daddyefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<!-- ═══════════════ AFC Bournemouth vs Aston Villa ═══════════════ -->
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Aston Villa[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-28%2Fbou-avl&mode=14</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Arsenal[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36</link>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]</title>
+<link>damitv://afc+bournemouth</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Aston Villa[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<!-- ═══════════════ Fulham vs Crystal Palace ═══════════════ -->
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fulham vs Crystal Palace[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fulham vs Crystal Palace[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-28%2Fful-cry&mode=14</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]</title>
+<link>damitv://fulham</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Fulham vs Crystal Palace[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<!-- ═══════════════ Sunderland vs Brentford ═══════════════ -->
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Brentford[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyefl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Brentford[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fcarabao-cup%2F2026-10-28%2Fsun-bre&mode=14</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]</title>
+<link>damitv://sunderland</link>
+<thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
+<fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]CARABAO[/B][/COLOR] [COLOR red][B]CUP[/B][/COLOR]:[COLOR white][B]Sunderland vs Brentford[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasefl4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://dailycannon.com/static/uploads/2017/09/carabao-cup.jpg</thumbnail>
 <fanart>https://e0.365dm.com/20/12/2048x1152/skysports-carabao-cup-trophy_5214987.jpg</fanart>
 </item>
@@ -1302,7 +1347,7 @@ LISTNAME:[COLOR orange][B]TNT Sp0rts.AQ[/B][/COLOR]::LISTSOURCE::https://otte.ca
 
 <item>
 <title>[COLOR red][B]LA[/B][/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]</title>
-<link>streamed://Atlético+Madrid</link>
+<link>damitv://Atlético+Madrid</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -2734,35 +2779,35 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 -->
-<!-- ═══════════════ AS Roma vs Cagliari ═══════════════ -->
+<!-- ═══════════════ Genoa vs Juventus ═══════════════ -->
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-27%2Froma-cag&mode=14</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-28%2Fgen-juv&mode=14</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
 <title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]</title>
-<link>streamed://AS+Roma</link>
+<link>damitv://genoa</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58739</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58777</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -2770,55 +2815,62 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - FHD ⚽ [FHD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]AS Roma vs Cagliari[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Genoa vs Juventus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
-<!-- ═══════════════ Torino vs Como ═══════════════ -->
+<!-- ═══════════════ Monza vs Napoli ═══════════════ -->
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse2_1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-27%2Ftor-como&mode=14</link>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fseriea%2F2026-10-28%2Fmon-nap&mode=14</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
 <title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]</title>
-<link>streamed://Torino</link>
+<link>damitv://monza</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs SSC Napoli[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/58738</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58779</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -2826,21 +2878,28 @@ LISTNAME:[COLOR orange][B]noname[/B][/COLOR]::LISTSOURCE:link::#
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - FHD ⚽ [FHD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddyse2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Torino vs Como[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR red][B]Serie[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR]:[COLOR white][B]Monza vs Napoli[/B][/COLOR] [COLOR orange][B]⚽ SERVER 5 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasse2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -3577,7 +3636,7 @@ LISTNAME:[COLOR orange][B]beINSp0rts.Adaptive[/B][/COLOR]::LISTSOURCE:https://a1
 
 <item>
 <title>[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]</title>
-<link>streamed://Lens</link>
+<link>damitv://Lens</link>
 <thumbnail>https://i.postimg.cc/65wB5dsk/image.png</thumbnail>
 <fanart>https://i.postimg.cc/pXZR9pRp/image.png</fanart>
 </item>
