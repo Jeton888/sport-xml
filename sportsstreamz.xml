@@ -4027,27 +4027,12 @@ xml
 </item>
 
 <item>
-<title>[COLOR blue][B]UCL[/B][/COLOR]:[COLOR white][B]The Golazo Show[/B][/COLOR]</title>
-<link>damitv://the+golazo+show</link>
-<thumbnail>https://i.postimg.cc/9QTkPHFg/c6nf-Dmk7n-EFkd-Mp-AQYz-EK4.jpg</thumbnail>
-<fanart>https://i.postimg.cc/J7sCygJ3/862abd213845873-674f36668763c.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR blue][B]UCL[/B][/COLOR]:[COLOR white][B]The Golazo Show (CBS)[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
 <link>pitsport://102812</link>
 <thumbnail>https://i.postimg.cc/9QTkPHFg/c6nf-Dmk7n-EFkd-Mp-AQYz-EK4.jpg</thumbnail>
 <fanart>https://i.postimg.cc/J7sCygJ3/862abd213845873-674f36668763c.jpg</fanart>
 </item>
-
 <!-- ═══════════════ Goals Show Xtra (TNT) ═══════════════ -->
-<item>
-<title>[COLOR blue][B]UCL[/B][/COLOR]:[COLOR white][B]Goals Show Xtra (TNT)[/B][/COLOR]</title>
-<link>damitv://goals+show+xtra</link>
-<thumbnail>https://i.postimg.cc/9QTkPHFg/c6nf-Dmk7n-EFkd-Mp-AQYz-EK4.jpg</thumbnail>
-<fanart>https://i.postimg.cc/J7sCygJ3/862abd213845873-674f36668763c.jpg</fanart>
-</item>
-
 <item>
 <title>[COLOR blue][B]UCL[/B][/COLOR]:[COLOR white][B]Goals Show Xtra (TNT)[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
 <link>pitsport://102813</link>
