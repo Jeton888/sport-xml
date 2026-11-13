@@ -4604,40 +4604,54 @@ v
 </item>
 -->
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fita-fra&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsrb-ger&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fita-fra_540p&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsrb-ger&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR]</title>
-<link>damitv://italy</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsrb-ger_540p&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsrb-ger_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR]</title>
+<link>damitv://serbia</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59887</page>
+<page>https://gooz.aapmains.net/new-stream-embed/59947</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -4645,69 +4659,83 @@ v
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102975</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102985</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnation1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/germany-vs-serbia</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknation1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnations1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Italy vs France[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnation1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Serbia vs Germany[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Feng-cro&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fned-gre&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Feng-cro_540p&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fned-gre&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR]</title>
-<link>damitv://england</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fned-gre_540p&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fned-gre_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR]</title>
+<link>damitv://netherlands</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59879</page>
+<page>https://gooz.aapmains.net/new-stream-embed/59949</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -4715,28 +4743,28 @@ v
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102974</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102983</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnation2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/greece-vs-netherlands</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnations2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]England vs Croatia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Netherlands vs Greece[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
@@ -4744,40 +4772,54 @@ v
 
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnations3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fcze-esp&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvn-sui&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fcze-esp_540p&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvn-sui&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR]</title>
-<link>damitv://czechia</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvn-sui_540p&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvn-sui_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR]</title>
+<link>damitv://slovenia</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59885</page>
+<page>https://gooz.aapmains.net/new-stream-embed/58191</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -4785,28 +4827,21 @@ v
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102973</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102987</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - SD ⚽ [SD][/B][/COLOR]</title>
-<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnation3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/switzerland-vs-slovenia</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR orange][B]⚽ SERVER 3 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Czechia vs Spain[/B][/COLOR] [COLOR orange][B]⚽ SERVER 4 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovenia vs Switzerland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
@@ -4814,152 +4849,131 @@ v
 
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - SD ⚽ [SD][/B][/COLOR]</title>
+<link>https://aws.aristol.win/user/custom/dialog/userloaddata.js?main_new-wasnations4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsco-mkd&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsco-mkd&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsco-mkd_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsco-mkd_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR]</title>
+<link>damitv://scotland</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/59945</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102984</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/north-macedonia-vs-scotland</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Scotland vs North Macedonia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Falb-fin&amp;mode=14</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Falb-fin_540p&amp;mode=14</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR]</title>
-<link>damitv://albania</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59883</page>
-<referer>https://gooz.aapmains.net/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102972</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Albania vs Finland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fmne-lva&amp;mode=14</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fmne-lva_540p&amp;mode=14</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR]</title>
-<link>damitv://montenegro</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59884</page>
-<referer>https://gooz.aapmains.net/</referer>
-</regex>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102976</link>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Montenegro vs Latvia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
-<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvk-fro&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fsmr-blr&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvk-fro&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR lime][B]540p[/B][/COLOR]</title>
-<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-12%2Fsmr-blr_540p&amp;mode=14</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvk-fro_540p&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR]</title>
-<link>damitv://san+marino</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fsvk-fro_540p&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR]</title>
+<link>damitv://slovakia</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*aHR0.*?)[",']</expres>
-<page>https://gooz.aapmains.net/new-stream-embed/59878</page>
+<page>https://gooz.aapmains.net/new-stream-embed/59952</page>
 <referer>https://gooz.aapmains.net/</referer>
 </regex>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
@@ -4967,30 +4981,330 @@ v
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<link>pitsport://102977</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102986</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]San Marino vs Belarus[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/faroe-islands-vs-slovakia</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Slovakia vs Faroe Islands[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
 <link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Moldova vs Kazakhstan[/B][/COLOR]</title>
-<link>damitv://moldova</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flux-est&amp;mode=14</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Moldova vs Kazakhstan[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
-<link>pitsport://102978</link>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flux-est&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flux-est_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flux-est_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR]</title>
+<link>damitv://luxembourg</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/59948</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102982</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/estonia-vs-luxembourg</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Luxembourg vs Estonia[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-tiknations7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flie-aze&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flie-aze&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flie-aze_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Flie-aze_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR]</title>
+<link>damitv://liechtenstein</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/59951</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102981</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/azerbaijan-vs-liechtenstein</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Liechtenstein vs Azerbaijan[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://jsfile.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddynations7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-wasnations8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fbul-isl&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fbul-isl&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fbul-isl_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fbul-isl_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR]</title>
+<link>damitv://bulgaria</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/59950</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102980</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/iceland-vs-bulgaria</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Bulgaria vs Iceland[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-wasnations8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR orange][B]⚽ SERVER 1 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-wasnations9|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]1080p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fand-gib&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fand-gib&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]540p_1[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fand-gib_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]540p_2[/B][/COLOR]</title>
+<link>plugin://plugin.video.Rising.Tides/?url=taifood%3A%2F%2Fuefa-nations-league%2F2026-11-13%2Fand-gib_540p&amp;mode=14</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR]</title>
+<link>damitv://andorra</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR orange][B]Sport.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://gooz.aapmains.net/new-stream-embed/&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*aHR0.*?)[",']</expres>
+<page>https://gooz.aapmains.net/new-stream-embed/59946</page>
+<referer>https://gooz.aapmains.net/</referer>
+</regex>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]1080p_3[/B][/COLOR]</title>
+<link>pitsport://102979</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR lime][B]1080p_4[/B][/COLOR]</title>
+<link>strmfree://soccer/gibraltar-vs-andorra</link>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]Andorra vs Gibraltar[/B][/COLOR] [COLOR orange][B]⚽ SERVER 2 - HD ⚽ [HD][/B][/COLOR]</title>
+<link>https://d2.techlyhub.win/aws/embed.php?url=main_new-wasnations9|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36</link>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
