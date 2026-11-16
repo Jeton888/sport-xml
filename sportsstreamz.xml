@@ -4604,6 +4604,14 @@ v
 </item>
 -->
 <item>
+<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR lime][B]2160p[/B][/COLOR]</title>
+<url>dummy</url>
+<externallink>plugin://plugin.video.Rising.Tides/?url=soccer%7Cleague%3AUEFA+Nations+League&amp;mode=96</externallink>
+<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
+<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=Football%7Ctag%3AUEFA+Nations+League&amp;mode=75</externallink>
@@ -4623,14 +4631,6 @@ v
 <title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR lime][B]MultiSources[/B][/COLOR]</title>
 <url>dummy</url>
 <externallink>plugin://plugin.video.Rising.Tides/?url=league%3Auefa+nations+league&amp;mode=70</externallink>
-<thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
-<fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NATIONS[/B][/COLOR] [COLOR pink][B]LEAGUE[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR lime][B]1080p_2[/B][/COLOR]</title>
-<url>dummy</url>
-<externallink>plugin://plugin.video.Rising.Tides/?url=soccer%7Cleague%3AUEFA+Nations+League&amp;mode=96</externallink>
 <thumbnail>https://png.pngtree.com/png-clipart/20190520/original/pngtree-uefa-nations-league-logo-png-image_3643123.jpg</thumbnail>
 <fanart>https://www.socios.com/wp-content/uploads/2024/02/UEFA-Nations-League_.jpg</fanart>
 </item>
